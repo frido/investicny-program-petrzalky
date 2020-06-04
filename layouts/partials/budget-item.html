@@ -1,6 +1,6 @@
 {{ $color := .Params.color }}
 <div class="card" style="border: 0">
-    <div class="row no-gutters">
+    <div class="row">
         <div class="col-md-2" style="margin: auto;">
             <img src="/img/{{ .Params.icon }}" class="card-img" alt="...">
         </div>
@@ -10,7 +10,7 @@
                     style="padding-bottom: .75rem; margin-bottom: 0; border-bottom: solid 2px {{ $color }};">
                     {{ .Params.title }}
                 </h5>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col-md-6">
                         <p class="card-text">
                             <span

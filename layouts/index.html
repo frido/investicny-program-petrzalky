@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en" }}">
+<html lang="{{ .Site.LanguageCode | default "en" }}" style="background-color: #f9f9f9">
 
 <head>
     <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
@@ -24,14 +24,14 @@
     {{- end }}
 </head>
 
-<body>
+<body style="background-color: #f9f9f9">
     <div class="container">
-        <h3 style="text-align: center; border-top: solid 1px lightsteelblue; padding-top: .5em;">Sportove granty</h3>
+        <h3 style="text-align: center;  padding-top: .5em;">Sportove granty</h3>
         {{ range where .Site.RegularPages "Section" "=" "grant" }}
             {{ $grantList := .Params.list }}
             {{ range slice 0 }}
                 {{ $index := . }}
-                <div class="row no-gutters">
+                <div class="row">
                 {{ range first 3 (after (mul 3 $index) $grantList) }}
                         {{ partial "grant-item.html"  . }}
                 {{ end }} 
@@ -39,7 +39,7 @@
             {{ end }} 
         {{ end }}
 
-        <h3 style="text-align: center; border-top: solid 1px lightsteelblue; padding-top: .5em;">Rozpocet</h3>
+        <h3 style="text-align: center; padding-top: .5em;">Rozpocet</h3>
         {{ range where  .Site.RegularPages "Params.master" true }}
             {{ partial "budget-item.html"  . }}
         {{ end }}
