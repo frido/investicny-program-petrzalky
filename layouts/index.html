@@ -26,7 +26,20 @@
 
 <body>
     <div class="container">
+        <h3 style="text-align: center; border-top: solid 1px lightsteelblue; padding-top: .5em;">Sportove granty</h3>
+        {{ range where .Site.RegularPages "Section" "=" "grant" }}
+            {{ $grantList := .Params.list }}
+            {{ range slice 0 }}
+                {{ $index := . }}
+                <div class="row no-gutters">
+                {{ range first 3 (after (mul 3 $index) $grantList) }}
+                        {{ partial "grant-item.html"  . }}
+                {{ end }} 
+                </div>
+            {{ end }} 
+        {{ end }}
 
+        <h3 style="text-align: center; border-top: solid 1px lightsteelblue; padding-top: .5em;">Rozpocet</h3>
         {{ range where  .Site.RegularPages "Params.master" true }}
             {{ partial "budget-item.html"  . }}
         {{ end }}
