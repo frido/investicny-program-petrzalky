@@ -1,0 +1,64 @@
+{{ $color := .Params.color }}
+<div class="card" style="border: 0">
+    <div class="row no-gutters">
+        <div class="col-md-2" style="margin: auto;">
+            <img src="/img/{{ .Params.icon }}" class="card-img" alt="...">
+        </div>
+        <div class="col-md-10">
+            <div class="card-body">
+                <h5 class="card-title"
+                    style="padding-bottom: .75rem; margin-bottom: 0; border-bottom: solid 2px {{ $color }};">
+                    {{ .Params.title }}
+                </h5>
+                <div class="row no-gutters">
+                    <div class="col-md-6">
+                        <p class="card-text">
+                            <span
+                                style="margin: 5px; padding: 5px; background: {{ $color }}; font-weight: 900; color: white; padding-top: 3px; margin-left: 0px;">
+                                {{ .Params.commonExpenses.amount }}€
+                            </span>
+                            <span style="color: {{ $color }}">
+                                {{ .Params.commonExpenses.title }}
+                            </span>
+                            {{ range .Params.commonExpenses.list }}
+                        <div>
+                            {{ if .link  }}
+                            <a href="{{.Params.link}}" style="color: black"><span
+                                    style="font-weight: 900; color:  {{ $color }}">
+                                    {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
+                            {{ else }}
+                            <span style="font-weight: 900; color:  {{ $color }}">
+                                {{ substr .title 0 1 }}</span>{{ substr .title 1 }}
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                    <div class="col-md-6">
+                        <p class="card-text">
+                            <span
+                                style="margin: 5px; padding: 5px; background: {{ $color }}; font-weight: 900; color: white; padding-top: 3px; margin-left: 0px;">
+                                {{ .Params.capitalExpenses.amount }}€
+                            </span>
+                            <span style="color: {{ $color }}">
+                                {{ .Params.capitalExpenses.title }}
+                            </span>
+                        {{ range .Params.capitalExpenses.list }}
+                            <div>
+                                {{ if .link  }}
+                                <a href="{{.Params.link}}" style="color: black"><span
+                                        style="font-weight: 900; color:  {{ $color }}">
+                                        {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
+                                {{ else }}
+                                <span style="font-weight: 900; color:  {{ $color }}">
+                                    {{ substr .title 0 1 }}</span>{{ substr .title 1 }}
+                                {{ end }}
+                            </div>
+                        {{ end }}
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

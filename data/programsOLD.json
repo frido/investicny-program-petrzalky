@@ -1,0 +1,65 @@
+{
+    "programs": [
+        {
+            "title": "Rozhodovanie, manažment a kontrola",
+            "icon": "000.png",
+            "color": "#99021B",
+            "commonExpenses": {
+                "title": "prevadzkove vydavky",
+                "amount": "875 366",
+                "list": [ 
+                    {
+                        "title": "Výkon funkcie poslancov, zástupcov starostu"
+                    },
+                    {
+                        "title": "Prípravu projektov a podporu neziskových organizácií"
+                    }
+                ]
+            },
+            "capitalExpenses": {
+                "title": "vydavky na projekty",
+                "amount": "39 150",
+                "list": [ 
+                    {
+                        "title": "Moderná prezentácia pamiatok a pamätihodností MČ",
+                        "link": "projects/xxx"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Moderný miestny úrad",
+            "icon": "001.png",
+            "color": "#134E84",
+            "commonExpenses": {
+                "title": "prevadzkove vydavky",
+                "amount": "6 536 957",
+                "list": [ 
+                    {
+                        "title": "Zabezpečenie chodu miestneho úradu"
+                    },
+                    {
+                        "title": "Prevádzkové výdavky na administratívnu budovu"
+                    },
+                    {
+                        "title": "Výdavky pre zamestnancov miestneho úradu"
+                    }
+                ]
+            },
+            "capitalExpenses": {
+                "title": "vydavky na projekty",
+                "amount": "53 000",
+                "list": [ 
+                    {
+                        "title": "Nákup licencie software na verejné obstarávanie v čiastke",
+                        "link": "projects/xxx"
+                    },
+                    {
+                        "title": "Virtualizácia serverov ",
+                        "link": "projects/xxx"
+                    }
+                ]
+            }
+        }
+    ]
+}

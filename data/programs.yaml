@@ -1,0 +1,208 @@
+---
+programs:
+- title: Rozhodovanie, manažment a kontrola
+  icon: 000.png
+  color: "#99021B"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 875 366
+    list:
+    - title: Výkon funkcie poslancov, zástupcov starostu
+    - title: Prípravu projektov a podporu neziskových organizácií
+  capitalExpenses:
+    title: vydavky na projekty
+    amount: 39 150
+    list:
+    - title: Moderná prezentácia pamiatok a pamätihodností MČ
+      link: projects/xxx
+- title: Moderný miestny úrad
+  icon: 001.png
+  color: "#134E84"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 6 536 957
+    list:
+    - title: Zabezpečenie chodu miestneho úradu
+    - title: Prevádzkové výdavky na administratívnu budovu
+    - title: Výdavky pre zamestnancov miestneho úradu
+  capitalExpenses:
+    title: vydavky na projekty
+    amount: 53 000
+    list:
+    - title: Nákup licencie software na verejné obstarávanie v čiastke
+      link: projects/xxx
+    - title: 'Virtualizácia serverov '
+      link: projects/xxx
+- title: Služby občanom
+  icon: 002.png
+  color: "#704521"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 184 789
+    list:
+    - title: Prevádzkové výdavky matriky a ohlasovne pobytu
+    - title: Zabezpečovanie sobášov a občianskych obradov
+    - title: Tlač a distribúciu nového petržalského periodika
+    - title: Spoluprácu s televíziou
+    - title: Údržba internetovej stránky mestskej časti
+    - title: Nákup propagačných materiálov    
+  capitalExpenses:
+    title: vydavky na projekty
+    amount: 0
+- title: Doprava a komunikácie
+  icon: 003.png
+  color: "#000000"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 829 140
+    list:
+    - title: Oprava a údržba miestnych komunikácií
+    - title: Výdavky na parkovaciu politiku
+  capitalExpenses:
+    title: vydavky na projekty
+    amount: 100 000
+    list:
+    - title: Vypracovanie projektovej dokumentácie k výstavbe nových parkovísk
+      link: projects/xxx
+    - title: Výstavba nových cyklotrás
+      link: projects/xxx
+- title: Vzdelávanie
+  icon: 004.png
+  color: "#5E1F95"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 23 941 017
+    list:
+    - title: Dotácie pre 11 základných škôl, 24 materských škôl a školské jedálne
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  1 400 720
+    list:
+    - title: Rekonštrukcie objektov základných a materských škôl mestskej časti
+      link: projects/xxx
+    - title: Rozšírenie kapacít materskej školy Turnianska
+      link: projects/xxx
+    - title: Technické vybavenie školských kuchýň
+      link: projects/xxx
+    - title: Budovanie a zlepšenie technického stavu odborných učební
+      link: projects/xxx
+- title: Kultúra a šport 
+  icon: 005.png
+  color: "#C68418"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 2 668 923
+    list:
+    - title: Dotácie pre Miestnu knižnicu
+    - title: Dotácie pre Kultúrne zariadenia
+    - title: Prevádzka plavárne
+    - title: Podujatie Fašiangový maškarný ples
+    - title: Podujatie Dni Petržalky
+    - title: Podujatie Senior Fest
+    - title: Podujatie Petržalské vianočné trhy
+    - title: Podujatie Dni Petržalky
+    - title: Výdavky na opravu ihrísk
+    - title: Výdavky na športové podujatia
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  1 400 720
+    list:
+    - title: Vybudovanie klimatizácie v Dome kultúry Zrkadlový háj a CC centra
+      link: projects/xxx
+    - title: Rekonštrukcia športovej haly Prokofievova
+      link: projects/xxx
+    - title: Obnova multifunkčného ihriska na ZŠ Holíčska
+      link: projects/xxx
+- title: Životné prostredie 
+  icon: 006.png
+  color: "#5C9B17"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 2 448 251
+    list:
+    - title: Starostlivosť o zeleň, výsadba drevín
+    - title: Údržba a čistota verejných priestranstiev
+    - title: Projekt Revitalizácia predzáhradiek
+    - title: Starostlivosť o psov
+    - title: Dotváranie a budovanie kontajnerových stanovíšť
+    - title: Podpora vodnej záchrannej služby
+    - title: Údržba a čistota verejných detských ihrísk
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  100 000
+    list:
+    - title: Vybudovanie nového oploteného výbehu pre psov
+      link: projects/xxx
+    - title: Príspevky mestskej časti na stavebné úpravy a vybudovanie nových kontajnerových stanovíšť
+      link: projects/xxx
+    - title: Revitalizáciu verejných detských ihrísk 
+      link: projects/xxx
+- title: Územný rozvoj 
+  icon: 007.png
+  color: "#000000"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 66 136
+    list:
+    - title: prevádzkové výdavky na prenesený výkon činností štátu na úseku stavebného úradu, špeciálneho stavebného úradu a štátneho fondu rozvoja bývania
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  42 757
+    list:
+    - title: Územný plán zóny Kapitulský dvor
+      link: projects/xxx
+    - title: Spracovanie prieskumov a rozborov územného plánu
+      link: projects/xxx
+- title: Nakladanie s majetkom a bývanie 
+  icon: 008.png
+  color: "#134E84"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 755 773
+    list:
+    - title: prevádzkové výdavky na prenesený výkon činností štátu na úseku stavebného úradu, špeciálneho stavebného úradu a štátneho fondu rozvoja bývania
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  104 651
+    list:
+    - title: Rekonštrukcia zariadenia s opatrovateľskou starostlivosťou na Vavilovovej ulici
+      link: projects/xxx
+    - title: obstaranie projektovej dokumentácie na revitalizáciu verejných priestranstiev
+      link: projects/xxx
+    - title: vyhotovenie projektovej dokumentácie k novým projektom podľa vyhlásených výziev
+      link: projects/xxx
+- title: Sociálna pomoc a sociálne služby  
+  icon: 009.png
+  color: "#704521"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 1 992 093
+    list:
+    - title: Financovanie Strediska sociálnych služieb Petržalka
+    - title: Prevádzka šiestich denných centier
+    - title: Príspevok na stravovanie dôchodcov
+    - title: Poskytovanie dávok sociálnej pomoci občanom v hmotnej núdzi
+    - title: Akcie pre deti zo sociálne slabších rodín
+    - title: Financovanie Strediska sociálnych služieb Petržalka
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  14 000
+    list:
+    - title: Zabezpečenie klimatizácie do zariadenia sociálnych služieb na Vavilovovej ulici
+      link: projects/xxx
+- title:  Bezpečnosť a poriadok
+  icon: 010.png
+  color: "#99021B"
+  commonExpenses:
+    title: prevadzkove vydavky
+    amount: 131 050
+    list:
+    - title: Zabezpečenie činnosti Dobrovoľného verejného požiarneho zboru 
+    - title: Podporu mestskej polície
+    - title: Poistenie majetku mestskej časti
+  capitalExpenses:
+    title: vydavky na projekty
+    amount:  20 000
+    list:
+    - title: Obstaranie špeciálneho vozidla pre Dobrovoľný verejný požiarny zbor
+      link: projects/xxx
