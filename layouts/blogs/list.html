@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+{{ $Pages := where .Site.RegularPages "Section" "=" "blogs" }}
+
+<article>
+  <header><h1>{{ .Title | default "Posts" | humanize }}</h1></header>
+  {{ .Content }}
+
+  {{ range $Pages }}
+      {{ partial "project-item.html"  . }}
+  {{ end }}
+
+</article>
+
+{{ end }}

@@ -13,9 +13,14 @@ capitalExpenses:
   title: vydavky na projekty
   amount: 100 000
   list:
-  - title: Vypracovanie projektovej dokumentácie k výstavbe nových parkovísk
-    link: projects/xxx
-  - title: Výstavba nových cyklotrás
-    link: projects/xxx
+  - title: Nákup strojovej techniky na údržbu komunikácií, kosenie
+    amount: 100 000
+  - title: Splátky leasingu strojov a zar. na údržbu komunikácií
+    amount: 35 000
+  - title: Vybudovanie cyklotrasy, prípadne nových chodníkov
+    amount: 145 000
+    link: blogs\Vybudovanie-cyklotrasy.html
+  - title: PD na nové parkoviská
+    amount: 20 000
 ---
 

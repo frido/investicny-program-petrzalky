@@ -15,6 +15,6 @@ capitalExpenses:
   amount:  20 000
   list:
   - title: Obstaranie špeciálneho vozidla pre Dobrovoľný verejný požiarny zbor
-    link: projects/xxx
+    amount: 20 000
 ---
 

@@ -13,7 +13,7 @@ capitalExpenses:
   amount:  42 757
   list:
   - title: Územný plán zóny Kapitulský dvor
-    link: projects/xxx
+    amount: 34 757
   - title: Spracovanie prieskumov a rozborov územného plánu
-    link: projects/xxx
+    amount: 8 000
 ---

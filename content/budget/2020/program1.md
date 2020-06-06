@@ -14,6 +14,6 @@ capitalExpenses:
   amount: 39 150
   list:
   - title: Moderná prezentácia pamiatok a pamätihodností MČ
-    link: projects/xxx
+    link: \blogs\Moderná-prezentácia-pamiatok-a-pamätihodností-MČ.html
 ---
-test
+

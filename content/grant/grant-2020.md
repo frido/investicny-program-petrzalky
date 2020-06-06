@@ -1,5 +1,5 @@
 ---
-Title: Sportove granty za rok 2020
+Title: Športové granty za rok 2020
 year: 2020
 resolution: https://www.petrzalka.sk/wp-content/uploads/2020/01/2.-Materi%C3%A1l_Dot%C3%A1cie-pre-ve%C4%BEk%C3%A9-%C5%A1portov%C3%A9-kluby-na-rok-2020-na-MZ.pdf
 source: https://www.petrzalka.sk/wp-content/uploads/2020/01/2.-Materi%C3%A1l_Dot%C3%A1cie-pre-ve%C4%BEk%C3%A9-%C5%A1portov%C3%A9-kluby-na-rok-2020-na-MZ.pdf
@@ -23,4 +23,3 @@ list:
   - title: ŠK Juventa Bratislava
     amount: 1 620,57
 ---
-sportove granty

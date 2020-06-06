@@ -18,11 +18,11 @@ capitalExpenses:
   title: vydavky na projekty
   amount:  100 000
   list:
-  - title: Vybudovanie nového oploteného výbehu pre psov
-    link: projects/xxx
-  - title: Príspevky mestskej časti na stavebné úpravy a vybudovanie nových kontajnerových stanovíšť
-    link: projects/xxx
-  - title: Revitalizáciu verejných detských ihrísk 
-    link: projects/xxx
+  - title: Vybudovanie jedného nového výbehu pre psov
+    amount: 20 000
+  - title:  Príspevky na stav. úpravy a vybudovanie nových kontajnerových stanovíšť
+    amount: 10 000
+  - title: Transfer pre MP VPS Petržalka na revitalizáciu verejných detských ihrísk
+    amount: 70 000
 ---
 

@@ -1,11 +1,14 @@
 {{ $color := .Params.color }}
 <div class="card" style="border: 0">
-    <div class="row">
-        <div class="col-md-2" style="margin: auto;">
-            <img src="/img/{{ .Params.icon }}" class="card-img" alt="...">
-        </div>
-        <div class="col-md-10">
-            <div class="card-body">
+
+
+
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-2" style="margin: auto;">
+                <img src="/img/{{ .Params.icon }}" class="card-img" alt="...">
+            </div>
+            <div class="col-md-10">
                 <h5 class="card-title"
                     style="padding-bottom: .75rem; margin-bottom: 0; border-bottom: solid 2px {{ $color }};">
                     {{ .Params.title }}
@@ -20,7 +23,7 @@
                             <span style="color: {{ $color }}">
                                 {{ .Params.commonExpenses.title }}
                             </span>
-                            {{ range .Params.commonExpenses.list }}
+                            {{ range first 3 .Params.commonExpenses.list }}
                         <div>
                             {{ if .link  }}
                             <a href="{{.Params.link}}" style="color: black"><span
@@ -42,19 +45,20 @@
                             <span style="color: {{ $color }}">
                                 {{ .Params.capitalExpenses.title }}
                             </span>
-                        {{ range .Params.capitalExpenses.list }}
-                            <div>
-                                {{ if .link  }}
-                                <a href="{{.Params.link}}" style="color: black"><span
-                                        style="font-weight: 900; color:  {{ $color }}">
-                                        {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
-                                {{ else }}
-                                <span style="font-weight: 900; color:  {{ $color }}">
-                                    {{ substr .title 0 1 }}</span>{{ substr .title 1 }}
-                                {{ end }}
-                            </div>
+                            {{ if .Params.capitalExpenses.list  }}
+                            {{ range first 3 .Params.capitalExpenses.list }}
+                        <div>
+                            {{ if .link  }}
+                            <a href="{{.Params.link}}" style="color: black"><span
+                                    style="font-weight: 900; color:  {{ $color }}">
+                                    {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
+                            {{ else }}
+                            <span style="font-weight: 900; color:  {{ $color }}">
+                                {{ substr .title 0 1 }}</span>{{ substr .title 1 }}
+                            {{ end }}
+                        </div>
                         {{ end }}
-
+                        {{ end }}
                         </p>
                     </div>
                 </div>

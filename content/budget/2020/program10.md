@@ -18,6 +18,6 @@ capitalExpenses:
   amount:  14 000
   list:
   - title: Zabezpečenie klimatizácie do zariadenia sociálnych služieb na Vavilovovej ulici
-    link: projects/xxx
+    amount: 14 000
 ---
 

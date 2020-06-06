@@ -1,50 +1,36 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}" style="background-color: #f9f9f9">
 
-<head>
-    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-    <meta charset="utf-8">
-    {{ hugo.Generator }}
-    {{- if or .Description .Site.Params.description }}
-    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
-    {{- end }}
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/index.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/classes.css">
-    {{- if .Site.Params.sidebar }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/sidebar.css" media="screen and (min-width: 70em)">
-    {{- end }}
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="canonical" href="{{ .Permalink }}">
-    <link rel="alternate" type="application/rss+xml"
-        href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
-    {{- if or .Params.math .Site.Params.math }}
-    {{ partial "math.html" . }}
-    {{- end }}
-</head>
+{{ partial "head"  . }}
 
 <body style="background-color: #f9f9f9">
-    <div class="container">
-        <h3 style="text-align: center;  padding-top: .5em;">Sportove granty</h3>
-        {{ range where .Site.RegularPages "Section" "=" "grant" }}
-            {{ $grantList := .Params.list }}
-            {{ range slice 0 }}
-                {{ $index := . }}
-                <div class="row">
-                {{ range first 3 (after (mul 3 $index) $grantList) }}
-                        {{ partial "grant-item.html"  . }}
-                {{ end }} 
-                </div>
-            {{ end }} 
-        {{ end }}
 
-        <h3 style="text-align: center; padding-top: .5em;">Rozpocet</h3>
+    {{ partial "header"  . }}
+
+    <div class="container">
+        
+        <h3 class="container-title">Projekty</h3>
+        {{ range first 2 (where .Site.RegularPages "Section" "=" "blogs") }}
+            {{ partial "project-item.html"  . }}
+        {{ end }}
+        <a href="blogs/">Viac...</a>
+
+        <h3 class="container-title">Športové granty</h3>
+        <div class="grant-list">
+        {{ range where .Site.RegularPages "Section" "=" "grant" }}
+            {{ range first 3 .Params.list }}
+                {{ partial "grant-item.html"  . }}
+            {{ end }}
+        {{ end }}
+        </div>
+        <a href="grant/grant-2020">Viac...</a>
+
+        <h3 class="container-title">Rozpočet</h3>
         {{ range where  .Site.RegularPages "Params.master" true }}
             {{ partial "budget-item.html"  . }}
         {{ end }}
 
-        <a href="/budget/">sadasdas</a>
+        <a href="/budget/2020">Viac...</a>
 </body>
 
 </html>

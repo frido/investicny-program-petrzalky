@@ -12,11 +12,12 @@ capitalExpenses:
   title: vydavky na projekty
   amount:  104 651
   list:
-  - title: Rekonštrukcia zariadenia s opatrovateľskou starostlivosťou na Vavilovovej ulici
-    link: projects/xxx
-  - title: obstaranie projektovej dokumentácie na revitalizáciu verejných priestranstiev
-    link: projects/xxx
-  - title: vyhotovenie projektovej dokumentácie k novým projektom podľa vyhlásených výziev
-    link: projects/xxx
+  - title: Vybudovanie denného stacionáru
+    amount: 34 651
+    link: /blogs/Vybudovanie-denného-stacionáru-pre-seniorov-na-Vavilovovej-ul.html
+  - title: PD + revitalizácia
+    amount: 50 000
+  - title: Vyhotovenie PD k novým projektom podľa vyhlásených výziev
+    amount: 20 000
 ---
 

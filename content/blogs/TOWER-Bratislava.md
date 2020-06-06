@@ -1,0 +1,9 @@
+---
+title: "TOWER Bratislava"
+date: 2020-06-05T18:18:14+02:00
+draft: true
+categories: ["projekt"]
+---
+Komisia územného plánu, výstavby a dopravy:
+Parafrázovaný záznam z diskusie: B. Kováč: zámer je navrhovaný v exponovanej polohe, umiestnenie a dizajn je potrebné preveriť architektonickou súťažou; D. Petrovič: súhlasí s B. Kováčom; B. Sepši: idú na to dobre, načrtli hrubý investičný zámer, je však potrebné ho overiť súťažou; L. Ovečková: v krátkosti uviedla zámery žiadateľa a zhrnula, že v prvom rade sa jedná najmä o rekreačnú stavbu; N. Podhorná: v území sa plánuje väčšia výstavba (Nové Lido) a preto by bolo vhodné počkať najprv na to, ako sa vyvinie tento projekt; nestotožňuje sa s navrhovaným umiestnením veže pri Starom moste a prikláňa sa k názoru, že by bolo vhodnejšie ju umiestniť niekde inde; M. Kozáková: nesúhlasí so zámerom z dôvodov, ktoré uviedol B. Kováč, požaduje vytipovanie vhodných lokalít a preverenie súťažou návrhov; M. Dragun: považuje zámer za pretláčanie fenoménu „chodníka korunami stromov“ do Bratislavy nasilu, uvítal by vhodnejšiu lokalizáciu zámeru skôr na okraji zastavaných území Bratislavy; A. Hájková: zámer považuje za dehonestáciu Starého mosta a tiež predpokladá, že zámer spustí požiadavky na výstavbu súvisiacej občianskej vybavenosti ako sú reštauračné zariadenie, pre ktoré toto územia nie je vhodné; B. Sepši: komisia by mala vydať usmernenie k zámeru; M. Repka: nábrežie máme iba jedno, najprv nech sa vyjadríme, kde v Bratislave by sme vôbec chceli takú stavbu a potom nech sa to overí súťažou; L. Ovečková: bola by rada, aby sa komisia vyjadrila, či vôbec chce taký zámer v Petržalke a ak áno, aby sa hľadalo vhodné umiestnenie; O. Kríž: nezavrhuje úplne takýto zámer; D. Petrovič: funkčne považuje zámer za zaujímavý, problém vidí stále iba v dizajne, jednoznačne z toho vyplýva potreba vyhlásenia súťaže
+

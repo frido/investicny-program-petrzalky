@@ -16,8 +16,8 @@ capitalExpenses:
   amount: 53 000
   list:
   - title: Nákup licencie software na verejné obstarávanie v čiastke
-    link: projects/xxx
-  - title: 'Virtualizácia serverov '
-    link: projects/xxx
+    amount: 3 000
+  - title: Obstaranie virtualizácie serverov
+    amount: 50 000
 ---
 
