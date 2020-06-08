@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ $dateFormat := "2 January 2006"}}
+
+<article>
+  <header>
+    {{ range $index, $tag := .Params.categories }}
+    {{- if gt $index 0 }}, {{ end -}}
+    <a href="{{ ($.Site.GetPage (printf "/%s/%s" "categories" $tag)).Permalink }}">{{ $tag | upper }}</a>
+    {{- end -}}
+    <h1>{{ .Title }}</h1>
+    {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">aktualizované:
+      {{ .Date.Format $dateFormat }}</time>{{ end }}
+  </header>
+  <p>
+    <span class="amount">{{ .Params.amount }}€</span> z rozpočtu Petržalky
+    {{ if .Params.amountAll }}<span class="amount">{{ .Params.amountAll }}€</span> celková cena projektu{{ end }}
+  </p>
+  {{ if .Params.schedule }}
+  <div class="schedule">
+    <p>
+      {{ range .Params.schedule }}
+    <div>
+      <span>{{ .title }}: </span>
+      {{ if .dateReal }}<span><time> {{ .dateReal  }} </time></span>{{ end }}
+      {{ if .dateExpected }}<span>(plánované: <time> {{ .dateExpected }} </time>)</span>{{ end }}
+    </div>
+    {{ end }}
+    </p>
+  </div>
+  {{ end }}
+  {{ .Content }}
+</article>
+<div class="sources">
+  <div>
+    zdroj: <a href="{{ .Params.source }}">{{ substr .Params.source 0 30 }}...</a>
+  </div>
+</div>
+{{ end }}
