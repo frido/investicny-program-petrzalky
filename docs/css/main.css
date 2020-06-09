@@ -1,0 +1,55 @@
+.card {
+    border: 0;
+}
+
+.card:hover {
+    box-shadow: 0 30px 50px rgba(0,0,0,0.12), 0 10px 20px rgba(0,0,0,0.24) !important;
+    z-index: 10;
+}
+
+.project-list-title-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+
+.amount {
+    margin: 0 5px; 
+    padding: 5px; 
+    background: #134E84; 
+    font-weight: 900; 
+    color: white; 
+    padding-top: 3px; 
+    margin-left: 0px; 
+    border-radius: .25rem;
+}
+
+.container-title {
+    text-align: center; 
+    padding-top: .5em;
+}
+
+.grant-list {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+article header h1 {
+    font-size: 1.8em;
+    margin: 0 0 .1em;
+}
+
+article h1 {
+    font-size: 1.6em;
+    margin: 0 0 .1em;
+}
+
+article h2 {
+    font-size: 1.3em;
+    margin: 0 0 .1em;
+}
+
+.schedule {
+    color: #8e8e91;
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projekt on My New Hugo Site</title>
+    <link>http://example.org/categories/projekt/</link>
+    <description>Recent content in projekt on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 20:53:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/projekt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul</title>
+      <link>http://example.org/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</link>
+      <pubDate>Sat, 06 Jun 2020 20:53:31 +0200</pubDate>
+      
+      <guid>http://example.org/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</guid>
+      <description>Cieľom projektu „Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul., Bratislava“ je vybudovanie denného stacionára pre seniorov na Vavilovovej ulici č. 18 v Mestskej časti Bratislava-Petržalka.</description>
+    </item>
+    
+    <item>
+      <title>Rekonštrukcia a vybavenie odborných učební</title>
+      <link>http://example.org/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</link>
+      <pubDate>Sat, 06 Jun 2020 20:23:04 +0200</pubDate>
+      
+      <guid>http://example.org/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</guid>
+      <description>Cieľom projektov je teda vytvorenie podmienok na zabezpečenie kvalitného primárneho vzdelávania a nižšieho stredného vzdelávania prispievajúceho k zvládnutiu povinnej školskej dochádzky. Tento cieľ sa naplní realizáciou aktivít jednotlivých projektov zameraných na vytvorenie odborných učební, čím sa vytvoria predpoklady pre zabezpečenie prístupu ku kvalitnejším verejným službám v oblasti povinnej školskej dochádzky a výchovy.</description>
+    </item>
+    
+  </channel>
+</rss>
