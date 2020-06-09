@@ -19,7 +19,7 @@ capitalExpenses:
     amount: 35 000
   - title: Vybudovanie cyklotrasy, prípadne nových chodníkov
     amount: 145 000
-    link: blogs\Vybudovanie-cyklotrasy.html
+    link: blogs/vybudovanie-cyklotrasy/
   - title: PD na nové parkoviská
     amount: 20 000
 ---

@@ -11,9 +11,10 @@ commonExpenses:
   - title: Prípravu projektov a podporu neziskových organizácií
 capitalExpenses:
   title: vydavky na projekty
-  amount: 39 150
+  amount: 0
   list:
   - title: Moderná prezentácia pamiatok a pamätihodností MČ
-    link: \blogs\Moderná-prezentácia-pamiatok-a-pamätihodností-MČ.html
+    link: blogs/moderná-prezentácia-pamiatok-a-pamätihodností-mč/
+    cancel: true
 ---
 
