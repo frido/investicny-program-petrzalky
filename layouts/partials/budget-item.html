@@ -49,9 +49,13 @@
                             </span>
                             {{ if .Params.capitalExpenses.list  }}
                             {{ range first 3 .Params.capitalExpenses.list }}
+                            {{ if .cancel }}
+                        <div style="text-decoration: line-through;">
+                            {{ else }}
                         <div>
+                            {{ end }}
                             {{ if .link  }}
-                            <a href="{{.Params.link}}" style="color: black"><span
+                            <a href="{{.link}}" style="color: black"><span
                                     style="font-weight: 900; color:  {{ $color }}">
                                     {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
                             {{ else }}
