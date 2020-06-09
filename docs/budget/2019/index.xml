@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/budget/2019/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Investicný plán petržalky</title>
+    <link>https://frido.github.io/investicny-program-petrzalky/budget/2019/</link>
+    <description>Recent content on Investicný plán petržalky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/budget/2019/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frido.github.io/investicny-program-petrzalky/budget/2019/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rozhodovanie, manažment a kontrola 2019</title>
-      <link>http://example.org/budget/2019/program1/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2019/program1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2019/program1/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2019/program1/</guid>
       <description>test</description>
     </item>
     

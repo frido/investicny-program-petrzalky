@@ -1,148 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Investicný plán petržalky</title>
+    <link>https://frido.github.io/investicny-program-petrzalky/</link>
+    <description>Recent content on Investicný plán petržalky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 20:53:31 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frido.github.io/investicny-program-petrzalky/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rozhodovanie, manažment a kontrola</title>
-      <link>http://example.org/budget/2020/program1/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program1/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moderný miestny úrad</title>
-      <link>http://example.org/budget/2020/program2/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program2/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Služby občanom</title>
-      <link>http://example.org/budget/2020/program3/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program3/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doprava a komunikácie</title>
-      <link>http://example.org/budget/2020/program4/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program4/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vzdelávanie</title>
-      <link>http://example.org/budget/2020/program5/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program5/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kultúra a šport</title>
-      <link>http://example.org/budget/2020/program6/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program6/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Životné prostredie</title>
-      <link>http://example.org/budget/2020/program7/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program7/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Územný rozvoj</title>
-      <link>http://example.org/budget/2020/program8/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program8/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nakladanie s majetkom a bývanie</title>
-      <link>http://example.org/budget/2020/program9/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program9/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sociálna pomoc a sociálne služby</title>
-      <link>http://example.org/budget/2020/program10/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program10/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bezpečnosť a poriadok</title>
-      <link>http://example.org/budget/2020/program11/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2020/program11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2020/program11/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2020/program11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul</title>
-      <link>http://example.org/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</link>
       <pubDate>Sat, 06 Jun 2020 20:53:31 +0200</pubDate>
       
-      <guid>http://example.org/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/blogs/vybudovanie-denn%C3%A9ho-stacion%C3%A1ru-pre-seniorov-na-vavilovovej-ul/</guid>
       <description>Cieľom projektu „Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul., Bratislava“ je vybudovanie denného stacionára pre seniorov na Vavilovovej ulici č. 18 v Mestskej časti Bratislava-Petržalka.</description>
     </item>
     
     <item>
       <title>Rekonštrukcia a vybavenie odborných učební</title>
-      <link>http://example.org/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</link>
       <pubDate>Sat, 06 Jun 2020 20:23:04 +0200</pubDate>
       
-      <guid>http://example.org/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/blogs/rekon%C5%A1trukcia-a-vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD/</guid>
       <description>Cieľom projektov je teda vytvorenie podmienok na zabezpečenie kvalitného primárneho vzdelávania a nižšieho stredného vzdelávania prispievajúceho k zvládnutiu povinnej školskej dochádzky. Tento cieľ sa naplní realizáciou aktivít jednotlivých projektov zameraných na vytvorenie odborných učební, čím sa vytvoria predpoklady pre zabezpečenie prístupu ku kvalitnejším verejným službám v oblasti povinnej školskej dochádzky a výchovy.</description>
     </item>
     
     <item>
       <title>Rozhodovanie, manažment a kontrola 2019</title>
-      <link>http://example.org/budget/2019/program1/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/budget/2019/program1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/budget/2019/program1/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/budget/2019/program1/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>Športové granty za rok 2020</title>
-      <link>http://example.org/grant/grant-2020/</link>
+      <link>https://frido.github.io/investicny-program-petrzalky/grant/grant-2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/grant/grant-2020/</guid>
+      <guid>https://frido.github.io/investicny-program-petrzalky/grant/grant-2020/</guid>
       <description>Prítomní členovia komisie športu hodnotili strednodobý plán každého žiadateľa - prezentáciu a činnosť jednotlivých žiadateľov, ktorú dostali e-mailovou poštou vopred. Po krátkej diskusii pristúpili k hodnoteniu pomocou hodnotiacich hárkov, ktoré vyplnili a odovzdali predsedovi komisie športu.</description>
     </item>
     
