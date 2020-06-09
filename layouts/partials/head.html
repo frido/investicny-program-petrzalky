@@ -1,6 +1,7 @@
 {{ $style := resources.Get "sass/main.scss" }}
 
 <head>
+    <base href="{{ .Site.BaseURL }}">
     <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
     <meta charset="utf-8">
     {{ hugo.Generator }}
