@@ -14,7 +14,7 @@ capitalExpenses:
   list:
   - title: Vybudovanie denného stacionáru
     amount: 34 651
-    link: /blogs/Vybudovanie-denného-stacionáru-pre-seniorov-na-Vavilovovej-ul.html
+    link: blogs/vybudovanie-denného-stacionáru-pre-seniorov-na-vavilovovej-ul
   - title: PD + revitalizácia
     amount: 50 000
   - title: Vyhotovenie PD k novým projektom podľa vyhlásených výziev

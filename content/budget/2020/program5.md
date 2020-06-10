@@ -12,6 +12,9 @@ capitalExpenses:
   title: vydavky na projekty
   amount:  1 400 720
   list:
+  - title: Rekonštrukcia a vybavenie odborných učební
+    amount: 871 980
+    link: blogs/rekonštrukcia-a-vybavenie-odborných-učební
   - title: PD rekonštrukcia priestorov kuchyne - realizačná dokumentácia
     amount: 5 200
   - title: PD rekonštrukcia odpadov zo ŠJ vrátane lapača tukov
@@ -26,9 +29,6 @@ capitalExpenses:
     amount: 104 000
   - title: Rekonštrukcia okien na 3. a 4. poschodí v pavilóne prístavby
     amount: 41 000
-  - title: Rekonštrukcia a vybavenie odborných učební
-    amount: 871 980
-    link: blogs/Rekonštrukcia-a-vybavenie-odborných-učební.html
   - title: Prestavba školníckeho bytu na triedu MŠ a úniková cesta z 2.NP
     amount: 43 500
   - title: Prestavba školníckeho bytu na triedu MŠ a zvýšenie kapacity kuchyne vrátane gastrozariadenia

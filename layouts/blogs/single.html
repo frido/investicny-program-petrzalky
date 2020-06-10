@@ -21,7 +21,7 @@
     <p>
       {{ range .Params.schedule }}
     <div>
-      <span>{{ .title }}: </span>
+      <span style="font-weight: bold;">{{ .title }}: </span>
       {{ if .dateReal }}<span><time> {{ .dateReal  }} </time></span>{{ end }}
       {{ if .dateExpected }}<span>(plánované: <time> {{ .dateExpected }} </time>)</span>{{ end }}
     </div>

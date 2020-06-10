@@ -7,15 +7,21 @@
 
     {{ partial "header"  . }}
 
-    <div class="container">
+    <div class="container index">
         
-        <h3 class="container-title">Projekty</h3>
+        <article>
+            <header>
+        <a href="blogs/"><h1 class="container-title">Projekty</h1></a>
+    </header>
         {{ range first 2 (where .Site.RegularPages "Section" "=" "blogs") }}
             {{ partial "project-item.html"  . }}
         {{ end }}
-        <a href="blogs/">Viac...</a>
+        </article>
 
-        <h3 class="container-title">Športové granty</h3>
+        <article>
+            <header>
+        <a href="grant/grant-2020"><h1 class="container-title">Športové granty</h1></a>
+    </header>
         <div class="grant-list">
         {{ range where .Site.RegularPages "Section" "=" "grant" }}
             {{ range first 3 .Params.list }}
@@ -23,14 +29,16 @@
             {{ end }}
         {{ end }}
         </div>
-        <a href="grant/grant-2020">Viac...</a>
+    </article>
 
-        <h3 class="container-title">Rozpočet</h3>
+    <article>
+        <header>
+        <a href="budget/2020"><h1 class="container-title">Rozpočet</h1></a>
+    </header>
         {{ range where  .Site.RegularPages "Params.master" true }}
             {{ partial "budget-item.html"  . }}
         {{ end }}
-
-        <a href="budget/2020">Viac...</a>
+    </article>
 </body>
 
 </html>

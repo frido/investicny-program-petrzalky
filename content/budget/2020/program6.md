@@ -21,10 +21,10 @@ capitalExpenses:
   title: vydavky na projekty
   amount:  1 400 720
   list:
-  - title: Vybudovanie bezbariérového prístupu a klimatizácie v DK Zrkadlový háj a v Cik Cak centre
-    amount: 25 000
   - title: PD + rekonštrukcia a modernizácia špotovej haly Prokofievova
     amount: 600 000
+  - title: Vybudovanie bezbariérového prístupu a klimatizácie v DK Zrkadlový háj a v Cik Cak centre
+    amount: 25 000
   - title: Rekonštrukcia jestvujúceho multifunkčného ihriska na ZŠ Holíčska
     amount: 21 114
 ---

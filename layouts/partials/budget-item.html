@@ -24,7 +24,7 @@
                                 {{ .Params.commonExpenses.title }}
                             </span>
                             {{ if .Params.commonExpenses.list  }}
-                            {{ range first 3 .Params.commonExpenses.list }}
+                            {{ range .Params.commonExpenses.list }}
                         <div>
                             {{ if .link  }}
                             <a href="{{.Params.link}}" style="color: black"><span
@@ -48,14 +48,14 @@
                                 {{ .Params.capitalExpenses.title }}
                             </span>
                             {{ if .Params.capitalExpenses.list  }}
-                            {{ range first 3 .Params.capitalExpenses.list }}
+                            {{ range .Params.capitalExpenses.list }}
                             {{ if .cancel }}
                         <div style="text-decoration: line-through;">
                             {{ else }}
                         <div>
                             {{ end }}
                             {{ if .link  }}
-                            <a href="{{.link}}" style="color: black"><span
+                            <a href="{{.link}}"><span
                                     style="font-weight: 900; color:  {{ $color }}">
                                     {{ substr .title 0 1 }}</span>{{ substr .title 1 }}</a>
                             {{ else }}

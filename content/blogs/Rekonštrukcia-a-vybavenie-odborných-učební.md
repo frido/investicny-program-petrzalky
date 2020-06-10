@@ -42,7 +42,7 @@ knižníc, odborných učební rôzneho druhu v 11 základných školách mestsk
 * obstaranie polytechnických učební,
 * obstaranie IKT učební, 
 
-#  harmonogram projektu
+#  Harmonogram projektu
 
 Plánovaný začiatok realizácie projektov v prípade schválenia ŽoNFP a po úspešnom
 ukončení procesu verejného obstarávania na realizátorov projektov je naplánovaný na rok
