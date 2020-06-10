@@ -1,10 +1,11 @@
 .card {
     border: 0;
+    margin-bottom: 1em;
 }
 
 .card:hover {
-    box-shadow: 0 30px 50px rgba(0,0,0,0.12), 0 10px 20px rgba(0,0,0,0.24) !important;
-    z-index: 10;
+    /* box-shadow: 0 30px 50px rgba(0,0,0,0.12), 0 10px 20px rgba(0,0,0,0.24) !important;
+    z-index: 10; */
 }
 
 .project-list-title-holder {
@@ -17,7 +18,7 @@
 .amount {
     margin: 0 5px; 
     padding: 5px; 
-    background: #134E84; 
+    background: chocolate; 
     font-weight: 900; 
     color: white; 
     padding-top: 3px; 
@@ -26,8 +27,8 @@
 }
 
 .container-title {
-    text-align: center; 
-    padding-top: .5em;
+    /* text-align: center;  */
+    /* padding-top: .5em; */
 }
 
 .grant-list {
@@ -42,14 +43,38 @@ article header h1 {
 
 article h1 {
     font-size: 1.6em;
-    margin: 0 0 .1em;
+    margin: 0 0 .6em;
 }
 
 article h2 {
-    font-size: 1.3em;
-    margin: 0 0 .1em;
+    font-size: 1.4em;
+    margin: 0 0 .4em;
+}
+
+article h3 {
+    font-size: 1.2em;
+    margin: 0 0 .2em;
 }
 
 .schedule {
     color: #8e8e91;
+}
+
+a {
+    /* text-decoration: underline; */
+    color: #134E84
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+.index p {
+    color: dimgray
+}
+
+.logo-text {
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.8em;
 }
