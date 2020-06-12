@@ -4,12 +4,12 @@ title: Nakladanie s majetkom a bývanie
 icon: 008.png
 color: "#134E84"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 755 773
   list:
   - title: prevádzkové výdavky na prenesený výkon činností štátu na úseku stavebného úradu, špeciálneho stavebného úradu a štátneho fondu rozvoja bývania
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  104 651
   list:
   - title: Vybudovanie denného stacionáru

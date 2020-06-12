@@ -4,7 +4,7 @@ title: Kultúra a šport
 icon: 005.png
 color: "#C68418"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 2 668 923
   list:
   - title: Dotácie pre Miestnu knižnicu
@@ -18,7 +18,7 @@ commonExpenses:
   - title: Výdavky na opravu ihrísk
   - title: Výdavky na športové podujatia
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  1 400 720
   list:
   - title: PD + rekonštrukcia a modernizácia špotovej haly Prokofievova

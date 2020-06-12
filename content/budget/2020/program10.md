@@ -4,7 +4,7 @@ title: Sociálna pomoc a sociálne služby
 icon: 009.png
 color: "#704521"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 1 992 093
   list:
   - title: Financovanie Strediska sociálnych služieb Petržalka
@@ -14,7 +14,7 @@ commonExpenses:
   - title: Akcie pre deti zo sociálne slabších rodín
   - title: Financovanie Strediska sociálnych služieb Petržalka
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  14 000
   list:
   - title: Zabezpečenie klimatizácie do zariadenia sociálnych služieb na Vavilovovej ulici

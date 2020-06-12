@@ -4,12 +4,12 @@ title: Územný rozvoj
 icon: 007.png
 color: "#000000"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 66 136
   list:
   - title: prevádzkové výdavky na prenesený výkon činností štátu na úseku stavebného úradu, špeciálneho stavebného úradu a štátneho fondu rozvoja bývania
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  42 757
   list:
   - title: Územný plán zóny Kapitulský dvor

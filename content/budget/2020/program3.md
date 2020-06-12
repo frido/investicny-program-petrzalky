@@ -4,7 +4,7 @@ title: Služby občanom
 icon: 002.png
 color: "#704521"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 184 789
   list:
   - title: Prevádzkové výdavky matriky a ohlasovne pobytu
@@ -14,7 +14,7 @@ commonExpenses:
   - title: Údržba internetovej stránky mestskej časti
   - title: Nákup propagačných materiálov    
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount: 0
 ---
 

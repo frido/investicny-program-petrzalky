@@ -4,13 +4,13 @@ title: Doprava a komunikácie
 icon: 003.png
 color: "#000000"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 829 140
   list:
   - title: Oprava a údržba miestnych komunikácií
   - title: Výdavky na parkovaciu politiku
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount: 100 000
   list:
   - title: Nákup strojovej techniky na údržbu komunikácií, kosenie

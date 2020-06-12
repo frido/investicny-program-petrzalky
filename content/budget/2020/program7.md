@@ -4,7 +4,7 @@ title: Životné prostredie
 icon: 006.png
 color: "#5C9B17"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 2 448 251
   list:
   - title: Starostlivosť o zeleň, výsadba drevín
@@ -15,7 +15,7 @@ commonExpenses:
   - title: Podpora vodnej záchrannej služby
   - title: Údržba a čistota verejných detských ihrísk
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  100 000
   list:
   - title: Vybudovanie jedného nového výbehu pre psov

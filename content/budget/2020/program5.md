@@ -4,12 +4,12 @@ title: Vzdelávanie
 icon: 004.png
 color: "#5E1F95"
 commonExpenses:
-  title: prevadzkove vydavky
+  title: prevádzkové výdavky
   amount: 23 941 017
   list:
   - title: Dotácie pre 11 základných škôl, 24 materských škôl a školské jedálne
 capitalExpenses:
-  title: vydavky na projekty
+  title: výdavky na projekty
   amount:  1 400 720
   list:
   - title: Rekonštrukcia a vybavenie odborných učební
