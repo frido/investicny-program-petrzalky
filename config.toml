@@ -4,3 +4,4 @@ title = "Investičný plán Petržalky"
 theme = "contrast-hugo"
 summaryLength = 25
 publishDir = "docs"
+googleAnalytics= "UA-130722892-1"
