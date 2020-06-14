@@ -141,15 +141,16 @@ dobudovanie.
 *p. Fischer* (predseda Komisie športu) - No Gravity majú naprojektovanú multifunkčnú halu,
 hľadajú miesto - potenciálny investor.
 
-**Komisia súhlasí so zámerom**
+*Komisia súhlasí so zámerom*
 
-**Komisia odporúča zachovať množstvo zelene aspoň v rozsahu grafickej časti urbanistickej štúdie**
+*Komisia odporúča zachovať množstvo zelene aspoň v rozsahu grafickej časti urbanistickej štúdie*
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/01/z%C3%A1pisnica-K%C5%BDP-23.1.2020.pdf)
 
 ## Zápisnica zo zasadnutia komisie územného plánu, výstavby a rozvoja dňa 21.01.2020
 
 **Parafrázovaný záznam diskusie:**
+
 *E. Pätoprstá* - župan napriek predchádzajúcemu investičnému zámeru trval na športovom využití danej lokality, na odporúčanie poslancov dal spracovať urbanistickú štúdiu, **na budovanie areálu nie sú finančné prostriedky**, prioritou je multifunkčná hala; E. 
 
 *Pätoprstá* - prisľúbila zorganizovať stretnutie župana so zástupcami z prítomných poslancov;
@@ -160,9 +161,9 @@ Spoločná diskusia či môžu požadovať verejnú súťaž od súkromného vla
 
 *Pätoprstá* - namieta, že pripomienky poslancov cez župana neprejdú;
 
-**Komisia ÚPVaR víta vypracovanie UŠ, ktorú zadal BSK na umiestnenie športovo-rekreačného areálu na území MČ Bratislava – Petržalka**
+*Komisia ÚPVaR víta vypracovanie UŠ, ktorú zadal BSK na umiestnenie športovo-rekreačného areálu na území MČ Bratislava – Petržalka*
 
-**Komisia ÚPVaR nesúhlasí so súčasným vypracovaním štúdie na základe pripomienok, ktoré pripájame k uzneseniu**:
+*Komisia ÚPVaR nesúhlasí so súčasným vypracovaním štúdie na základe pripomienok, ktoré pripájame k uzneseniu*:
 
 * Z hľadiska územného plánu je táto plocha definovaná s kódom X – „rozvojová plocha je natoľko významná alebo
 špecifická, že jej regulácia je reálna, až na základe preverenia súťažou, alebo na podklade podrobnejšieho riešenia
@@ -198,6 +199,6 @@ prístupovej komunikácie, miestna komunikácia k ČOV resp. parcely v rámci fu
 vlastníctve VÚC (najmä p.č. 3021/2). Riešené územie sa nachádza na pozemkoch vo vlastníctve
 VÚC. P. Pätoprstá objasnila históriu projektu a následne objasnila súčasný stav.. Vysvetlila rozdiel medzi Komplexnými urbanistickými návrhmi Variant A a Variant B. V rámci Variantu A bol v priestore navrhovaný atletický štadión a vo Variante B bola na tom mieste umiestená rekreačná zóna – jazero. V oboch prípadoch by riešené územie malo obsahovať centrálnu halu, externé športové plochy a iné areály určené na šport. Súčasťou riešeného územia by boli aj parkové úpravy a podiel zelene. 
 
-**Komisia súhlasí so zámerom**
+*Komisia súhlasí so zámerom*
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/02/z%C3%A1pis-z-komisie-29-1.2020.pdf)
