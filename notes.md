@@ -1,8 +1,3 @@
-# Športovo-rekreačný areál Petržalka
-https://www.petrzalka.sk/wp-content/uploads/2020/01/z%C3%A1pisnica-K%C5%BDP-23.1.2020.pdf
-https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-21_overena.pdf
-https://www.petrzalka.sk/wp-content/uploads/2020/02/z%C3%A1pis-z-komisie-29-1.2020.pdf
-https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-3.-%C5%A1portovo-rekrea%C4%8Dn%C3%BD-are%C3%A1l-pri-%C4%8COV-MZ.pdf
 
 # Štúdie-nájomného-bývania
 https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf
