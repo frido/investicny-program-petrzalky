@@ -10,22 +10,6 @@ schedule:
 - title: Materiál na rokovanie MZ
   dateReal: 4. február 2020
 ---
-
-Bratislavský samosprávny kraj (BSK), Sabinovská 16, Bratislava ako obstarávateľ
-nám listom doručeným dňa 23.12.2019 oznámil, že v termíne od 18.12.2019 do 18.01.2020
-uskutočňuje prerokovanie urbanistickej štúdie **„Športovo-rekreačný areál pri ČOV, MČ
-Bratislava-Petržalka“**, ktorá je v tlačenej forme k nahliadnutiu na BSK v miestnosti č. 407
-v úradných hodinách a je tiež zverejnená na internetovej stránke BSK www.bratislavskykraj.
-Zároveň nám oznámil, že dotknuté orgány majú možnosť uplatniť svoje námietky a
-pripomienky v lehote do 30 dní odo dňa doručenia oznámenia o prerokovaní materiálu.
-
-Spracovateľom urbanistickej štúdie je spoločnosť **MV ARCHITECTURE s.r.o.**,
-Bratislava. BSK zabezpečuje prerokovanie štúdie prostredníctvom Ing. arch. Jany Zlámalovej,
-odborne spôsobilej osoby pre obstarávanie ÚPP a ÚPD.
-
-Zadanie urbanistickej štúdie bolo schválené stanoviskom Hlavného mesta SR
-Bratislavy č. 58914/2019-487281 zo dňa 20.11.2019.
-
 Riešené územie urbanistickej štúdie sa nachádza východne od Dolnozemskej cesty. Jej
 priestorové ohraničenie tvorí: Betliarska ulica, resp. Sitnianska ulica, Dolnozemská cesta,
 vozovňa Petržalka, vrátane prístupovej komunikácie, miestna komunikácia k ČOV, resp.
@@ -36,6 +20,10 @@ diferencovaná krajina s halovými športovými objektmi, externými športovisk
 zariadeniami občianskej vybavenosti nadväzujúcimi na hlavnú funkciu /napr. ubytovne,
 hotely, penzióny/ a pobytovou a parkovou zeleňou. Územie je urbanisticky členené na severnú
 časť /zóna D/ a južnú časť /zóna E/.
+
+Spracovateľom urbanistickej štúdie je spoločnosť **MV ARCHITECTURE s.r.o.**,
+Bratislava. BSK zabezpečuje prerokovanie štúdie prostredníctvom Ing. arch. Jany Zlámalovej,
+odborne spôsobilej osoby pre obstarávanie ÚPP a ÚPD.
 
 Urbanistická štúdia je spracovaná v dvoch variantoch „A“ a „B“. Variantné riešenie
 vychádza zo zadania Bratislavského samosprávneho kraja, ktoré pre ťažiskové územie
@@ -108,10 +96,16 @@ zamestnancov.
     * Objekty pre prechodné ubytovanie návštevníkov - navrhované dva objekty á 550 m2
 zastavanej plochy, 4 nadzemné podlažia. Kapacita cca 40 ubytovacích jednotiek / 4 zamestnanci.
 
+Zadanie urbanistickej štúdie bolo schválené stanoviskom Hlavného mesta SR
+Bratislavy č. 58914/2019-487281 zo dňa 20.11.2019.
+
 Urbanistická štúdia bola dňa 14.01.2020 spracovateľom štúdie prezentovaná na
 mimoriadnej Komisii územného plánovania, výstavby a rozvoja (komisia ÚPVaR) a dňa
 21.01.2020 prerokovaná na riadnej komisii ÚPVaR. Dňa 20.01.2020 bola štúdia prerokovaná
 v Komisii správy majetku a miestnych podnikov.
+
+Štúdia je v tlačenej forme k nahliadnutiu na BSK v miestnosti č. 407
+v úradných hodinách a je tiež zverejnená na internetovej stránke BSK www.bratislavskykraj.
 
 ## Zápisnica zo zasadnutia Komisie životného prostredia a verejného poriadku konaného dňa 23. 01. 2020
 Materiál „Športovo-rekreačný areál Petržalka“ bol zaradený na návrh p. Eleny Pätoprstej,
