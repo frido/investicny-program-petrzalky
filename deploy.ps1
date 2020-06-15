@@ -1,6 +1,10 @@
+$currentDir = Get-Location
+$outputDir = "..\frido.github.io\"
+
 hugo
-cp -Recurse -Force .\docs\* ..\frido.github.io\
-cd ..\frido.github.io\
+Copy-Item -Path ".\docs\*" -Destination $outputDir -Recurse -Force
+Set-Location -Path $outputDir
 git add .
 git commit -m "hugo"
 git push
+Set-Location -Path $currentDir
