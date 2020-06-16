@@ -13,7 +13,7 @@
             <header>
         <a href="blogs/"><h1 class="container-title">Projekty</h1></a>
     </header>
-        {{ range first 2 (where .Site.RegularPages "Section" "=" "blogs") }}
+        {{ range first 3 (where .Site.RegularPages "Section" "=" "blogs") }}
             {{ partial "project-item.html"  . }}
         {{ end }}
         </article>

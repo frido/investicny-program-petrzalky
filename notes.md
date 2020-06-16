@@ -12,6 +12,7 @@ https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_
 
 # Cyklo
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
+https://cyklokoalicia.sk/wp-content/uploads/2013/11/STAROHAJSKA-SITUACIA-1-DSP.pdf
 
 # Elektricka
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf

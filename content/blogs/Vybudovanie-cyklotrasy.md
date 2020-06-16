@@ -3,8 +3,9 @@ title: "Vybudovanie Cyklotrasy"
 date: 2020-06-06T19:57:09+02:00
 draft: false
 categories: ["projekt"]
+Description: "Vybudovanie Cyklotrasy"
 source: "https://www.petrzalka.sk/cyklodoprava/cyklotrasy/"
-sources: ["https://www.petrzalka.sk/wp-content/uploads/2016/04/Studia_rozvoja_cyklistickej_dopravy.pdf"]
+sources: ["https://www.petrzalka.sk/wp-content/uploads/2016/04/Studia_rozvoja_cyklistickej_dopravy.pdf", "https://www.petrzalka.sk/wp-content/uploads/2016/04/Cyklotrasa_celkova_situacia.pdf", "https://cyklokoalicia.sk/wp-content/uploads/2013/11/STAROHAJSKA-SITUACIA-1-DSP.pdf", "https://www.petrzalka.sk/2015-11-16-cyklotrasa-starohajska-usek-rusovska-cesta-dolnozemska-cesta/", "https://cyklokoalicia.sk/wp-content/uploads/2013/11/O4-Cyklotrasa_celkova_situacia-maj-2016.pdf", "https://cyklokoalicia.sk/wp-content/uploads/2018/06/Akc%CC%8Cny%CC%81-pla%CC%81n-cyklistickej-a-pes%CC%8Cej-dopravy2018.pdf", "https://zastupitelstvo.bratislava.sk/data/att/41761.pdf", "https://cyklokoalicia.sk/wp-content/uploads/2018/06/Zasady-rozvoja-cyklistickej-dopravy-Bratislava-1743-2014.pdf", "https://cyklokoalicia.sk/cyklotrasy/radialy/"]
 amount: 145 000
 ---
 

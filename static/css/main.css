@@ -73,8 +73,14 @@ h1 {
     color: dimgray
 }
 
-.logo-text {
+.logo h1 {
     font-family: 'Comfortaa', cursive;
     font-family: 'Permanent Marker', cursive;
     font-size: 1.8em;
+    display:inline-block;
+}
+
+.logo img {
+    width: 1em;
+    margin: .3em 1em .3em 0;
 }
