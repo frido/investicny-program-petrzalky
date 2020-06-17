@@ -3,7 +3,7 @@
 {{ $Pages := .Pages }}
 
 
-<article class="">
+<section>
   <header>
     <h1>{{ .Title | default "Rozpočet" | humanize }}</h1>
   </header>
@@ -13,6 +13,6 @@
   {{ partial "budget-item.html"  . }}
   {{ end }}
 
-</article>
+</section>
 
 {{ end }}

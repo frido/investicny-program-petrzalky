@@ -7,40 +7,49 @@
 
     {{ partial "header"  . }}
 
-    <div class="container index">
-        
-        <article>
+    <main class="container index">
+
+        <section>
             <header>
-        <a href="blogs/"><h1 class="container-title">Projekty</h1></a>
-    </header>
-        {{ range first 3 (where .Site.RegularPages "Section" "=" "blogs") }}
+                <a href="blogs/">
+                    <h1 class="container-title">Projekty</h1>
+                </a>
+            </header>
+            {{ range first 3 (where .Site.RegularPages "Section" "=" "blogs") }}
             {{ partial "project-item.html"  . }}
-        {{ end }}
-        </article>
-
-        <article>
-            <header>
-        <a href="grant/grant-2020"><h1 class="container-title">Športové granty</h1></a>
-    </header>
-        <div class="grant-list">
-        {{ range where .Site.RegularPages "Section" "=" "grant" }}
-            {{ range first 3 .Params.list }}
-                {{ partial "grant-item.html"  . }}
             {{ end }}
-        {{ end }}
-        </div>
-    </article>
+        </section>
 
-    <article>
-        <header>
-        <a href="budget/2020"><h1 class="container-title">Rozpočet</h1></a>
-    </header>
-        {{ range where  .Site.RegularPages "Params.master" true }}
+        <section>
+            <header>
+                <a href="grant/grant-2020">
+                    <h1 class="container-title">Športové granty</h1>
+                </a>
+            </header>
+            <div class="grant-list">
+                {{ range where .Site.RegularPages "Section" "=" "grant" }}
+                {{ range first 3 .Params.list }}
+                {{ partial "grant-item.html"  . }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </section>
+
+        <section>
+            <header>
+                <a href="budget/2020">
+                    <h1 class="container-title">Rozpočet</h1>
+                </a>
+            </header>
+            {{ range where  .Site.RegularPages "Params.master" true }}
             {{ partial "budget-item.html"  . }}
-        {{ end }}
-    </article>
+            {{ end }}
+        </section>
+
+    </main>
 
     {{ partial "footer"  . }}
 
 </body>
+
 </html>

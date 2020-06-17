@@ -36,9 +36,19 @@
     flex-wrap: wrap; 
 }
 
+section header h1 {
+    font-size: 1.8em;
+    margin: 0 0 .8em;
+}
+
 article header h1 {
     font-size: 1.8em;
-    margin: 0 0 .1em;
+    margin: 0 0 .8em;
+}
+
+article header h2 {
+    font-size: 1.4em;
+    margin: 0 0 .4em;
 }
 
 article h1 {

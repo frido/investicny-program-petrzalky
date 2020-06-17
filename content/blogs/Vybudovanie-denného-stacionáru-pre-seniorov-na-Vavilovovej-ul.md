@@ -57,21 +57,21 @@ deinštitucionalizácie bude zriadený denný stacionár, ktorý umožní:
 * rodinným príslušníkom klientov denného stacionára zotrvať v pracovnom procese,
 čím nebude ohrozený ich sociálny štandard.
 
-# Dispozičné a stavebné riešenie
+## Dispozičné a stavebné riešenie
 
-##  Nadzemné podlažie
+###  Nadzemné podlažie
 
 * V 1. nadzemnom podlaží bude situovaný hlavný vstup do objektu, ktorý bude krytý markízou. Napravo bude nové schodisko a výťah, čím bude zabezpečená bezbariérovosť v rámci oboch podlaží objektu sociálneho zariadenia. Naľavo bude izolačná miestnosť s kúpeľňou a WC. V strednej časti objektu bude situované sociálne jadro, kde je umiestnené WC pre mužov a ženy;
 * V ľavej, juhozápadnej časti objektu bude denná miestnosť pre seniorov na vykonávanie denných aktivít. Cez krátku chodbu bude prepojenie do odpočinkovej miestnosti, ktorá bude mať okná orientované na sever. Podľa najnovšej legislatívy bude potrebné tento priestor vybaviť polohovateľným kreslom alebo lôžkom pre každého klienta;
 * V severovýchodnej časti bude stravovacie zázemie. Predpokladáme dovoz stravy, čiže uvažuje sa len s výdajom. Priestor bude rozdelený na vlastný výdaj, prípravu stravy a umývanie riadu. Jedáleň bude obsluhovať 24 klientov;
 * Ďalej sa v tomto podlaží bude nachádzať kúpeľňa s WC s vybavením pre imobilných klientov – vozíčkarov. Kancelária pre personál bude situovaná v severnej časti objektu. Pod ramenom schodiska bude priestor pre upratovačku s priestorom pre odkladanie čistiacich prostriedkov. 1. nadzemné podlažie bude mať maximálnu kapacitu 16 klientov.
 
-## Nadzemné podlažie
+### Nadzemné podlažie
 
 * V 2. nadzemnom podlaží budú situované priestory pre seniorov v podobe dennej miestnosti pre vykonávanie denných aktivít. Cez krátku chodbu bude prepojenie do odpočinkovej miestnosti, ktorá bude mať okná orientované na sever. Ďalej budú v rámci 2. Nadzemného podlažia nutné prevádzkové priestory. Prístupné bude schodiskom a výťahom z 1. nadzemného podlažia;
 * Hygienické zariadenia budú situované v centrálnej časti tak, aby boli sústredené pri stúpačkách z 1. NP. Miestnosť pre dekontamináciu zdravotných pomôcok bude vybavená výlevkou a umývadlom a priestorom pre odkladanie dezinfekčných prostriedkov. V zadnom trakte bude miestnosť pre pranie bielizne a priestor na sušenie, žehlenie a skladovanie čistej bielizne. 2. Nadzemné podlažie bude mať kapacitu 8 klientov.
 
-# Rozpočet a harmonogram projektu
+## Rozpočet a harmonogram projektu
 
 Rozpočet projektu tvoria výdavky – stavebné práce a súvisiace služby a tovary –
 v celkovej odhadovanej sume 1 030 152,00 eur s DPH, z toho suma oprávnených výdavkov je
@@ -85,7 +85,7 @@ ukončení procesu verejného obstarávania na výber dodávateľa stavebných p
 naplánovaný na október 2019, s termínom dokončenia stavby pravdepodobne v mesiaci marec
 2021. Predpokladaná lehota výstavy teda predstavuje 18 mesiacov.
 
-# Dôvodová správa
+## Dôvodová správa
 
 Ministerstvo pôdohospodárstva a rozvoja vidieka SR ako Riadiaci orgán pre
 Integrovaný regionálny operačný program (ďalej len IROP) vyhlásilo dňa 4. 4. 2018

@@ -1,6 +1,13 @@
 
-# Štúdie-nájomného-bývania
-https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf
+
+<!-- # Štúdie-nájomného-bývania
+https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf -->
+
+# Humenské námestie 
+https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
+
+# Polyfunkčný dom Topoľčianska
+https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
 
 # URBAN-E – informačný materiál
 https://www.petrzalka.sk/wp-content/uploads/2020/01/Z%C3%A1pisnica-%C4%8D.7-janu%C3%A1r-2020.pdf

@@ -98,7 +98,7 @@ Zvýšenie bezpečnosti a ochrany života, zdravia a majetku obyvateľov a širo
 verejnosti mestskej časti Bratislava-Petržalka, zlepšenie podmienok na výkon
 kontroly verejného poriadku
 
-# Dôvodová správa
+## Dôvodová správa
 Ministerstvo vnútra SR vyhlásilo dňa 29.03.2019 Výzvu číslo II KMV 2019 na
 predkladanie žiadostí o poskytnutie dotácie zo štátneho rozpočtu prostredníctvom rozpočtovej
 kapitoly Ministerstva vnútra SR (ďalej len MV SR) na podporu aktivít v oblasti prevencie

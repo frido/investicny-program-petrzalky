@@ -18,7 +18,7 @@ schedule:
 ---
 Spracovanie zoznamov pamätihodností hlavného mesta SR a mestskej časti bolo motivované snahou vytvoriť nástroj na poznanie a zdokumentovanie hodnotných nehnuteľných a hnuteľných pamiatok, predmetov, pojmov a udalostí, ktoré sa viažu ku kultúrnemu životu a histórii mesta.
 
-### Zasadnutie komisie kultúry a mládeže dňa 3.6. 2019
+## Zasadnutie komisie kultúry a mládeže dňa 3.6. 2019
 
 Myšlienku Modernej prezentácie pamiatok v Petržalke prišiel prezentovať Igor Trenk z
 kancelárie starostu v spolupráci s členom KKaM, p.Kleiblom. Je možné zapojiť sa do výzvy
@@ -32,7 +32,7 @@ Uznesenie: Komisia kultúry a mládeže podporuje projekt Moderná prezentácia
 petržalských pamiatok, víta zapojenie sa do Výzvy a navrhuje MZ schváliť vyčlenenie z
 rozpočtu potrebný vlastný vklad (5.000,-) určený Výzvou.
 
-### Žiadosť o dotáciu
+## Žiadosť o dotáciu
 Predmetom projektu je popularizácia pamiatok na území
 mestskej časti prostredníctvom textového popisu pamiatok,
 označenia pamiatok s QR kódom, vytvorenia mobilnej aplikácie,

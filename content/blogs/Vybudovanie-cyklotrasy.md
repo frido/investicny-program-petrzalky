@@ -9,22 +9,22 @@ sources: ["https://www.petrzalka.sk/wp-content/uploads/2016/04/Studia_rozvoja_cy
 amount: 145 000
 ---
 
-# Cyklotrasa: Prístavný most – Májová ul. – Nám. hraničiarov – Rusovská cesta
+## Cyklotrasa: Prístavný most – Májová ul. – Nám. hraničiarov – Rusovská cesta
 
 **Funkcia trasy**: hlavná okružná trasa
 **Účel trasy**: prepojenie hlavných cyklotrás
 
-## Vedenie trasy:
+### Vedenie trasy:
 
-### I. Etapa:
+#### I. Etapa:
 
 Trasa z Prístavného mosta pretína dunajskú hrádzu a vedie po vozovke miestnej komunikácie na Májovej ul., za Ekonomickou univerzitou. Ďalšia pripájacia vetva z hrádze je navrhovaná z južného smeru. Trasa úrovňovo križuje Dolnozemskú cestu a pokračuje rovno po chodníku na Gettingovej ul. Ďalej križuje Mamateyovu ul. a taktiež vedie rovno po chodníku cez obytný súbor. Odtiaľto až po Furdekovu ul. má podobu cestičky pre chodcov a cyklistov s oddelenou prevádzkou. Nadväzuje na cyklistické prepojenie Cyklotrasa Starohájska, úsek Rusovská cesta – Dolnozemská cesta (DIUR Nvia sr.o., Viktor Neumann, 12/2013, investor STARZ, realizácia pravdepodobne v roku 2016)
 
-### II. Etapa:
+#### II. Etapa:
 
 Trasa využíva koridor Chorvátskeho ramena a prepojenie je súčasťou pripravovanej stavby: PETRŽALKA CITY – lokalita A 2.etapa, Chorvátske rameno – Hálova – Rusovská cesta, 2. Etapa Polyfiunkčný dom B. Terasa predchádza cez miestnu obslužnú komunikáciu vedenú po Hálovej ulici a po úseku novonavrhovanej segregovanej cyklistickej komunikácie sa napája do jestvujúcej cestičky pre peších a cyklistov vedenej po ľavostrannom okraji Rusovskej cesty s vyústeným na komunikáciu Petržalského korza.
  
-## Rozsah stavebných úprav:
+### Rozsah stavebných úprav:
 
 * vybudovanie spevnených výjazdov na dunajskú hrádzu v oboch smeroch
 * vyznačenie cyklotrasy na miestnej komunikácii na Májovej ul.
@@ -49,7 +49,7 @@ stavebná úprava úseku od nadjazdu po vyústenie na Petržalské korzo
 **Dĺžka navrhovanej trasy**: 4430 m
 
  
-## Realizácia:
+### Realizácia:
 
 Realizácia je z dôvodu finančnej náročnosti (celkový rozpočet je 178 464 €) navrhnutá na riešenie vo dvoch hlavných etapách:
 

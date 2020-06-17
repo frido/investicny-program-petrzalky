@@ -42,7 +42,7 @@ knižníc, odborných učební rôzneho druhu v 11 základných školách mestsk
 * obstaranie polytechnických učební,
 * obstaranie IKT učební, 
 
-#  Harmonogram projektu
+##  Harmonogram projektu
 
 Plánovaný začiatok realizácie projektov v prípade schválenia ŽoNFP a po úspešnom
 ukončení procesu verejného obstarávania na realizátorov projektov je naplánovaný na rok
@@ -50,9 +50,9 @@ ukončení procesu verejného obstarávania na realizátorov projektov je naplá
 v rámci jednotlivých projektov. Väčšina z projektov má však plánovaný koniec realizácie
 aktivít projektu na september 2018, príp. december 2018.
 
-# Zoznam škôl
+## Zoznam škôl
 
-## Základná škola Lachova 1
+### Základná škola Lachova 1
 
 Doba realizácie projektu: 01/2020 - 09/2020
 
@@ -73,7 +73,7 @@ užívateľov nových zariadení bude celkovo v rámci celej základnej školy
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Jazykova-u%C4%8Debna-Z%C5%A0-Lachova.pdf)
 
-## Základná škola Budatínska 61
+### Základná škola Budatínska 61
 
 Doba realizácie projektu: 01/2020 - 12/2020
 
@@ -103,7 +103,7 @@ nadaných žiakov.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Jazyky-modernej%C5%A1ie-a-efekt%C3%ADvnej%C5%A1ie-Z%C5%A0-Budat%C3%ADnska.pdf)
 
-## Základná škola Tupolevova 20
+### Základná škola Tupolevova 20
 
 Doba realizácie projektu: 01/2020 - 12/2020
 
@@ -128,7 +128,7 @@ So zriadením učební a knižnice sú taktiež spojené drobné stavebné
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Moderniz%C3%A1cia-technick%C3%A9ho-vybavenia-u%C4%8Debn%C3%AD-IKT-Moderniz%C3%A1cia-technick%C3%A9ho-vybavenia-Biologickej-u%C4%8Debne-Moderniz%C3%A1cia-technick%C3%A9ho-vybavenia-Kni%C5%BEnice-Z%C5%A0-Tupolevova.pdf)
 
-## Základná škola Gessayova 2
+### Základná škola Gessayova 2
 
 Doba realizácie projektu: 01/2020 - 12/2020
 
@@ -147,7 +147,7 @@ inkluzívneho vzdelávania.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Obstaranie-odbornej-u%C4%8Debne-polytechnickej-v%C3%BDchovy-a-obstaranie-odbornej-u%C4%8Debne-ch%C3%A9mie-Z%C5%A0-Gessayova.pdf)
 
-## Základná škola Holíčska 50
+### Základná škola Holíčska 50
 
 Doba realizácie projektu: 01/2020 - 10/2020
 
@@ -172,7 +172,7 @@ a prispeje k ďalšiemu znižovaniu nezamestnanosti v našom regióne.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Technikou-k-lep%C5%A1%C3%ADm-mo%C5%BEnostiam-mlad%C3%BDch-Z%C5%A0-Hol%C3%AD%C4%8Dska.pdf)
 
-## Základná škola Černyševského 8
+### Základná škola Černyševského 8
 
 Doba realizácie projektu: 01/2020 - 12/2020
 
@@ -201,7 +201,7 @@ procese využívať formy moderného vyučovania pomocou IKT.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Tvoriv%C3%A9-vyu%C4%8Dovanie-Z%C5%A0-%C4%8Cerny%C5%A1evsk%C3%A9ho.pdf)
 
-## Základná škola Prokofievova 5
+### Základná škola Prokofievova 5
 
 Doba realizácie projektu: 01/2020 - 10/2020
 
@@ -226,7 +226,7 @@ učební IKT, jazykovej učebne, učební polytechnických a prírodovedných.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/U%C4%8D%C3%ADme-sa-moderne-a-kvalitne-Z%C5%A0-Prokofievova.pdf)
 
-## Základná škola Pankúchova 4
+### Základná škola Pankúchova 4
 
 Doba realizácie projektu: 01/2020 - 12/2020
 
@@ -247,7 +247,7 @@ vybavenie.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/U%C4%8Dme-sa-kvalitne-u%C4%8Dme-sa-pre-%C5%BEivot-Z%C5%A0-Pank%C3%BAchova.pdf)
 
-## Základná škola Nobelovo námestie 6
+### Základná škola Nobelovo námestie 6
 
 Doba realizácie projektu: 01/2020 - 08/2020
 
@@ -272,7 +272,7 @@ jazyky, 3 - Vybavenie odbornej učebne IKT.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Vybavenie-odborn%C3%BDch-u%C4%8Debn%C3%AD-v-Z%C5%A0-Nobelovo-n%C3%A1mm.pdf)
 
-## Základná škola Dudova 2
+### Základná škola Dudova 2
 
 Doba realizácie projektu: 01/2020 - 10/2020
 
@@ -300,7 +300,7 @@ objektívne a spoľahlivo pozorovať a opísať pozorované.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/10/Znalos%C5%A5-jazykov-r%C3%BAca-bari%C3%A9ry-otv%C3%A1ra-dvere-a-sp%C3%A1ja-%C4%BEud%C3%AD-sk%C3%BAmame-a-objavujeme-svet-Z%C5%A0-Dudova.pdf)
 
-## Základná škola Turnianska
+### Základná škola Turnianska
 
 predloženie ŽoNFP za účelom realizácie projektu „Zriadenie odborných učební
 v priestoroch prístavby školy“, realizovaného v rámci Výzvy na predkladanie
@@ -309,7 +309,7 @@ vybavenia jazykových učební, školských knižníc, odborných učební rôzn
 v základných školách, ktorého ciele sú v súlade s platným územným plánom hl. mesta
 SR Bratislava a PHSR Mestskej časti Bratislava-Petržalka.
 
-# Dôvodová správa
+## Dôvodová správa
 
 Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky Riadiaci orgán
 pre Integrovaný regionálny operačný program (ďalej len IROP) vyhlásilo v decembri 2016
