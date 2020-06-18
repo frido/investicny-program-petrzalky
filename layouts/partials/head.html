@@ -14,10 +14,12 @@
     <meta name="googlebot" content="index,follow" />
     <meta name="keywords" content="{{ .Site.Params.keywords}}" />
 
-    <meta property="og:url" content="http://petrzalka.info/" />
+    <meta property="og:url" content="{{ .Site.Params.BaseAbsURL }}{{ .Permalink }}" />
+    <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ .Params.title | default .Site.Params.title }}" />
-    <meta property="og:image" content="{{ .Params.icon | default "img/logo.png" }}" />
     <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
+    <meta property="og:image" content="{{ .Site.Params.BaseAbsURL }}{{ .Params.icon | default "/img/logo-m.png" }}" />
+    <meta property="fb:app_id" content="294839814987467" />
     
     <link rel="icon" type="image/ico" href="img/favicon.ico"/>
 
