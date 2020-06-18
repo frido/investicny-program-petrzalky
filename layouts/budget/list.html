@@ -1,16 +1,14 @@
 {{ define "main" }}
 
-{{ $Pages := .Pages }}
-
-
 <section>
   <header>
     <h1>{{ .Title | default "Rozpočet" | humanize }}</h1>
   </header>
+
   {{ .Content }}
 
-  {{ range $Pages }}
-  {{ partial "budget-item.html"  . }}
+  {{ range .Pages }}
+    {{ partial "budget-item.html"  . }}
   {{ end }}
 
 </section>

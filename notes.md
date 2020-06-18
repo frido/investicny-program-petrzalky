@@ -5,6 +5,11 @@ https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-
 
 # Humenské námestie 
 https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
+https://www.petrzalka.sk/wp-content/uploads/2018/09/polyfunkcny_dom_humenske_nam..pdf
+https://www.petrzalka.sk/wp-content/uploads/2020/01/Polyfunkcny-dom-Humenske-namestie.pdf
+http://www.arealstav.eu/files/humens.%20n%C3%A1m/hm1_komplet.pdf
+http://www.arealstav.eu/files/humens.%20n%C3%A1m/hm2_komplet.pdf
+https://www.yimba.sk/polyfunkcny-dom-humenske-namestie
 
 # Polyfunkčný dom Topoľčianska
 https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf

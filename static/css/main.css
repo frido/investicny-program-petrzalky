@@ -66,7 +66,11 @@ article h3 {
     margin: 0 0 .2em;
 }
 
-.schedule {
+.schedule, .updated, .budget, .sources {
+    padding-bottom: 1em;
+}
+
+.schedule, .updated {
     color: #8e8e91;
 }
 

@@ -1,13 +1,14 @@
 {{ define "main" }}
 
-{{ $Pages := where .Site.RegularPages "Section" "=" "blogs" }}
-
 <section>
-  <header><h1>{{ .Title | default "Posts" | humanize }}</h1></header>
+  <header>
+    <h1>{{ .Title | default "Posts" | humanize }}</h1>
+  </header>
+
   {{ .Content }}
 
-  {{ range $Pages }}
-      {{ partial "project-item.html"  . }}
+  {{ range where .Site.RegularPages "Section" "=" "blogs" }}
+    {{ partial "project-item.html"  . }}
   {{ end }}
 
 </section>
