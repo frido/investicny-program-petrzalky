@@ -20,26 +20,17 @@
     <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
     <meta property="og:image" content="{{ .Site.Params.BaseAbsURL }}{{ .Params.icon | default "/img/logo-m.png" }}" />
     <meta property="fb:app_id" content="294839814987467" />
-    
-    <link rel="icon" type="image/ico" href="img/favicon.ico"/>
 
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="css/classes.css">
-    {{- if .Site.Params.sidebar }}
-    <link rel="stylesheet" href="css/sidebar.css" media="screen and (min-width: 70em)">
-    {{- end }}
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
-
+    <link rel="stylesheet" href="css/main.css">
+    
+    <link rel="icon" type="image/ico" href="img/favicon.ico"/>
     <link rel="canonical" href="{{ .Permalink }}">
-    <link rel="alternate" type="application/rss+xml"
-        href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
-
+    <link rel="alternate" type="application/rss+xml" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" /> 
     
         

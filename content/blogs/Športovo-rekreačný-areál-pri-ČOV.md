@@ -3,7 +3,8 @@ title: "Športovo Rekreačný Areál Pri ČOV"
 date: 2020-06-14T06:26:50+02:00
 draft: false
 categories: ["projekt"]
-Description: "Športovo Rekreačný Areál Pri ČOV"
+description: "Zámerom urbanistického návrhu je športovo-rekreačný kampus, výškovo diferencovaná krajina s halovými športovými objektmi, externými športoviskami, zariadeniami občianskej vybavenosti nadväzujúcimi na hlavnú funkciu /napr. ubytovne, hotely, penzióny/ a pobytovou a parkovou zeleňou"
+icon: "/img/sportovo_rekreacny_areal_pri_COV/image--000.jpg"
 source: https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-3.-%C5%A1portovo-rekrea%C4%8Dn%C3%BD-are%C3%A1l-pri-%C4%8COV-MZ.pdf
 sources: ["https://www.petrzalka.sk/wp-content/uploads/2020/01/z%C3%A1pisnica-K%C5%BDP-23.1.2020.pdf", "https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-21_overena.pdf", "https://www.petrzalka.sk/wp-content/uploads/2020/02/z%C3%A1pis-z-komisie-29-1.2020.pdf"]
 amount: 0

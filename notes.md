@@ -51,6 +51,9 @@ https://www.petrzalka.sk/wp-content/uploads/2020/06/z%C3%A1pisnica-K%C5%BDP-28.0
 # Investičný zámer Bytový dom Habern Au
 https://www.petrzalka.sk/wp-content/uploads/2020/06/KUPVaR-zapisnica_2020-05-26_overena.pdf
 
+# skolsky rok
+https://www.petrzalka.sk/wp-content/uploads/2020/06/INFO2-Pg-org.-zabezpe%C4%8Denie-%C5%A1k.-roka-2020_21-v-M%C5%A0.pdf
+
 # Granty
 Návrh na poskytnutie dotácií z rozpočtu mestskej časti Bratislava – Petržalka v zmysle VZN č.7/2015, v znení VZN č. 7/2017, VZN č. 2/2019 a VZN č.20/2019
 

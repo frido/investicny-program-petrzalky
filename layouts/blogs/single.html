@@ -15,7 +15,7 @@
   <div class="updated">
     {{ if .Date }}
     <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-      aktualizované: {{ .Date.Format $dateFormat }}
+      aktualizované: {{ .Date.Day }}. {{ index $.Site.Data.mesiace (printf "%d" .Date.Month) }} {{ .Date.Year }}
     </time>
     {{ end }}
   </div>
@@ -29,7 +29,7 @@
   <div class="schedule">
     {{ range .Params.schedule }}
     <div>
-      <span style="font-weight: bold;">{{ .title }}: </span>
+      <span class="schedule-title">{{ .title }}: </span>
       {{ if .dateReal }}<span><time> {{ .dateReal  }} </time></span>{{ end }}
       {{ if .dateExpected }}<span>(plánované: <time> {{ .dateExpected }} </time>)</span>{{ end }}
     </div>

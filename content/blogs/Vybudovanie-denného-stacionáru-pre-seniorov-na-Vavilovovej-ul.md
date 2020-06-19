@@ -3,6 +3,7 @@ title: "Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul"
 date: 2020-06-06T20:53:31+02:00
 draft: false
 categories: ["projekt"]
+description: "Cieľom projektu „Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul., Bratislava“ je vybudovanie denného stacionára pre seniorov na Vavilovovej ulici č. 18 v Mestskej časti Bratislava-Petržalka"
 source: https://www.petrzalka.sk/wp-content/uploads/2018/09/03_Projekt_Denny_stacionar_pre_seniorov-1.pdf
 sources: ["https://www.petrzalka.sk/wp-content/uploads/2018/09/Priloha-4_Sprievodna-sprava-k-navrhu-dispozicneho-riesenia.pdf", "https://www.petrzalka.sk/2018-09-07-vyzva-na-predlozenie-ponuk-vybudovanie-denneho-stacionaru-pre-seniorov-na-vavilovovej-ulici-bratislava/", "https://www.petrzalka.sk/wp-content/uploads/2018/10/Zmluva_335_2018.pdf"]
 amount: 34 651

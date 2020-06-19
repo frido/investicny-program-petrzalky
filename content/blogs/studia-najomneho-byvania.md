@@ -3,7 +3,8 @@ title: "Štúdia nájomného bývania"
 date: 2020-06-17T21:14:21+02:00
 draft: false
 categories: ["štúdia"]
-description: "Štúdia nájomného bývania"
+description: "Účelom urbanistickej štúdie je preveriť možnosti umiestnenia nájomného bývania na území Bratislavy vo vybraných lokalitách na mestských pozemkoch a na pozemkoch súkromných investorov"
+icon: "/img/studia_najomneho_byvania/image--000.jpg"
 source: "https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf"
 sources: ["https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-21_overena.pdf"]
 amount: 0
