@@ -194,4 +194,10 @@ nav a {
 .timeline-body {
   margin-left: 1em;
 }
+
+.gallery {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=test.css.map */
