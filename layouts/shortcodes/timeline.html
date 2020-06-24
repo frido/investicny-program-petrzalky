@@ -1,0 +1,15 @@
+<div class="point" style=" border-left: 1px red solid;">
+<span style="width: 20px;border: solid 5px red;min-width: 10px;display: inline-block;height: 20px;border-radius: 5px;left: -10px;position: relative;background: white;top: 3px; ">
+</span>
+<span style="color: red; padding-right: 10px;">
+    {{ .Get "date" }}
+</span>
+<h2 style="display: inline-block;">
+    {{ .Get "title" }}
+</h2>
+<div class="timeline-body">
+
+    {{ .Inner }}
+    
+</div>
+</div>

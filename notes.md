@@ -3,13 +3,12 @@
 <!-- # Štúdie-nájomného-bývania
 https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf -->
 
-# Humenské námestie 
-https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
-https://www.petrzalka.sk/wp-content/uploads/2018/09/polyfunkcny_dom_humenske_nam..pdf
-https://www.petrzalka.sk/wp-content/uploads/2020/01/Polyfunkcny-dom-Humenske-namestie.pdf
-http://www.arealstav.eu/files/humens.%20n%C3%A1m/hm1_komplet.pdf
-http://www.arealstav.eu/files/humens.%20n%C3%A1m/hm2_komplet.pdf
-https://www.yimba.sk/polyfunkcny-dom-humenske-namestie
+# Dotacie
+https://www.petrzalka.sk/wp-content/uploads/2020/06/6.-N%C3%A1vrh-na-poskytnutie-dot%C3%A1ci%C3%AD-z-rozpo%C4%8Dtu-M%C4%8C-Bratislava-Petr%C5%BEalka-v-zmysle-VZN-%C4%8D-7_2015.pdf
+
+stranka uzemne a stavebne konania na stranke petrzalka.sk
+
+
 
 # Polyfunkčný dom Topoľčianska
 https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
@@ -25,6 +24,7 @@ https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_
 # Cyklo
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
 https://cyklokoalicia.sk/wp-content/uploads/2013/11/STAROHAJSKA-SITUACIA-1-DSP.pdf
+https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
 
 # Elektricka
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
@@ -53,6 +53,21 @@ https://www.petrzalka.sk/wp-content/uploads/2020/06/KUPVaR-zapisnica_2020-05-26_
 
 # skolsky rok
 https://www.petrzalka.sk/wp-content/uploads/2020/06/INFO2-Pg-org.-zabezpe%C4%8Denie-%C5%A1k.-roka-2020_21-v-M%C5%A0.pdf
+
+# Prehlad projektov
+https://www.petrzalka.sk/wp-content/uploads/2019/09/Prehlad-projektov-2018-2019.pdf
+
+# Projekt Petržalské predzáhradky - Petržalka
+https://www.petrzalka.sk/oblasti/zivotne-prostredie/projekt-petrzalske-predzahradky/
+
+# Rekonštrukcia budovy ZŠ Turnianska za účelom navýšenia kapacít MŠ | Zastavme Korupciu
+https://kamidueurofondy.sk/projekty/13439
+
+# Investicny plan
+https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-1.-Investi%C4%8Dn%C3%BD-pl%C3%A1n-3-z%C3%A1sobn%C3%ADk.pdf
+
+# Dunajsky park
+https://www.petrzalka.sk/wp-content/uploads/2020/06/z%C3%A1pisnica-K%C5%BDP-28.05.2020-podp%C3%ADsan%C3%A1.pdf
 
 # Granty
 Návrh na poskytnutie dotácií z rozpočtu mestskej časti Bratislava – Petržalka v zmysle VZN č.7/2015, v znení VZN č. 7/2017, VZN č. 2/2019 a VZN č.20/2019

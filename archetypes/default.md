@@ -6,7 +6,7 @@ categories: []
 description: ""
 icon: ""
 source: ""
-sources: ""
+sources: [""]
 amount: 0
 schedule: 
 - title: Informačný materiál na rokovaní MZ

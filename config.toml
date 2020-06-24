@@ -16,3 +16,5 @@ enableRobotsTXT = "true"
   title = "Investičný plán Petržalky"
   keywords = "Petržalka, investičný plán, projekty, rozpočet, štúdie, zámery"
   baseAbsURL = "http://petrzalka.info"
+[markup.goldmark.renderer]
+  unsafe= true
