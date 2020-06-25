@@ -3,6 +3,7 @@ Title: Športové granty za rok 2020
 year: 2020
 source: https://www.petrzalka.sk/wp-content/uploads/2020/02/1.-Materi%C3%A1l_Dot%C3%A1cie-pre-ve%C4%BEk%C3%A9-%C5%A1portov%C3%A9-kluby-na-rok-2020-NOVE-UZNESENIE-na-zverejnenie.pdf
 sources: ["https://www.petrzalka.sk/wp-content/uploads/2020/01/2.-Materi%C3%A1l_Dot%C3%A1cie-pre-ve%C4%BEk%C3%A9-%C5%A1portov%C3%A9-kluby-na-rok-2020-na-MZ.pdf", "https://www.petrzalka.sk/wp-content/uploads/2020/01/Z%C3%A1pisnica-z-komisie-%C5%A1portu-2020-01-21.pdf", "https://www.petrzalka.sk/wp-content/uploads/2020/01/2.-Materi%C3%A1l_Dot%C3%A1cie-pre-ve%C4%BEk%C3%A9-%C5%A1portov%C3%A9-kluby-na-rok-2020-na-MZ.pdf"]
+grant: grants-sport
 list:
   - title: FC Petržalka
     amount: 23 306,73

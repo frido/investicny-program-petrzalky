@@ -132,6 +132,10 @@ nav {
 .grant-list {
     display: flex;
     flex-wrap: wrap;
+    p {
+        margin-bottom: 0;
+        color: dimgray;
+    }
 }
 
 .schedule,
@@ -182,3 +186,5 @@ nav {
 .gallery {
     display: flex;
 }
+
+

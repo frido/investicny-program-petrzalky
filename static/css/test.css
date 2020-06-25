@@ -151,6 +151,11 @@ nav a {
       flex-wrap: wrap;
 }
 
+.grant-list p {
+  margin-bottom: 0;
+  color: dimgray;
+}
+
 .schedule,
 .updated,
 .budget,

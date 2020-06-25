@@ -3,12 +3,9 @@
 <!-- # Štúdie-nájomného-bývania
 https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-2.-n%C3%A1vrh-zadania-%C5%A0t%C3%BAdie-n%C3%A1jomn%C3%A9ho-b%C3%BDvania-MZ.pdf -->
 
-# Dotacie
-https://www.petrzalka.sk/wp-content/uploads/2020/06/6.-N%C3%A1vrh-na-poskytnutie-dot%C3%A1ci%C3%AD-z-rozpo%C4%8Dtu-M%C4%8C-Bratislava-Petr%C5%BEalka-v-zmysle-VZN-%C4%8D-7_2015.pdf
+--> stranka uzemne a stavebne konania na stranke petrzalka.sk
 
-stranka uzemne a stavebne konania na stranke petrzalka.sk
-
-
+# zaverecny ucet a pomer cerpania penazi
 
 # Polyfunkčný dom Topoľčianska
 https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf
@@ -68,46 +65,4 @@ https://www.petrzalka.sk/wp-content/uploads/2020/01/Info.-1.-Investi%C4%8Dn%C3%B
 
 # Dunajsky park
 https://www.petrzalka.sk/wp-content/uploads/2020/06/z%C3%A1pisnica-K%C5%BDP-28.05.2020-podp%C3%ADsan%C3%A1.pdf
-
-# Granty
-Návrh na poskytnutie dotácií z rozpočtu mestskej časti Bratislava – Petržalka v zmysle VZN č.7/2015, v znení VZN č. 7/2017, VZN č. 2/2019 a VZN č.20/2019
-
-Rozprava: Návrh predstavila p. poslankyňa Mgr. I. Jančoková, vysvetlila spôsob, ktorým predkladatelia dospeli k navrhnutým sumám dotácie pre jednotlivé subjekty.
-
-Rozprava: členovia sa oboznámili s predloženým návrhom rozdelenia celkovej dotácie na rok 2020 VZN č.7/2015, v znení VZN č. 7/2017, VZN č. 2/2019 a VZN č.20/2019 pre jednotlivé športové kluby. Členovia komisie stanovili, že prvý v poradí (t.j. žiadateľ s najvyšším počtom získaných bodov) má 80% mieru uspokojenia a každý ďalší žiadateľ pomernú časť z 80% v závislosti od získaných bodov v porovnaní s počtom bodov žiadateľa s najvyšším počtom bodov. 
-
-Uznesenie: členovia komisie športu odporúčajú Miestnemu zastupiteľstvu mestskej časti Bratislava Petržalka schváliť dotácie pre športové organizácie takto:
-Por.             Názov žiadateľa				aktivita			      pridelená suma
-1
-OZ TK Petržalka
-Pravidelný šport deťom
-4 000 €
-3
-Slávia Ekonomická univerzita
-Podpora činnosti družstva žien Slávia Ekonomická univerzita Bratislava
-3 681 €
-4
-OZ Pedál
-PumpPark Petržalka - dokončenie areálu
-3 681 €
-5
-Športová škola KARATE
-S kimonom bez hraníc!
-3 275 €
-6
-OZ Basketbalový klub mládeže             Petržalka Five Stars
-Športové vybavenie BKM Petržalka
-3 265 €
-7
-OZ Slovakia Karting Club
-Účasť na sodi world series (svetové finále)
-2 474 €
-8
-OZ Spoločnosť priateľov športu
-Repelenp
-2 344 €
-9
-OZ Deti na štarte
-Detský atletický štvorboj s gepardom 2020
-2 343 €
 

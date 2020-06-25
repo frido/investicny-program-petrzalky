@@ -27,7 +27,22 @@
                 </a>
             </header>
             <div class="grant-list">
-                {{ range where .Site.RegularPages "Section" "=" "grant" }}
+                {{ range where .Site.RegularPages ".Params.grant" "=" "grants-sport" }}
+                {{ range first 3 .Params.list }}
+                {{ partial "grant-item.html"  . }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </section>
+
+        <section>
+            <header>
+                <a href="grant/dotacie-2020">
+                    <h1 class="container-title">Dotácie</h1>
+                </a>
+            </header>
+            <div class="grant-list">
+                {{ range where .Site.RegularPages ".Params.grant" "=" "grants-oz" }}
                 {{ range first 3 .Params.list }}
                 {{ partial "grant-item.html"  . }}
                 {{ end }}
