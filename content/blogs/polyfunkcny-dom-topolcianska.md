@@ -1,30 +1,30 @@
 ---
 title: "Polyfunkčný dom Topoľčianska"
 date: 2020-06-27T18:45:30+02:00
-draft: true
+draft: false
 categories: ["projekt"]
-description: ""
+description: "Polyfunkčný objekt s prevládajúcou funkciou bývania (68 %) s 8 nadzemnými a 2 podzemnými podlažiami, dopravne prístupným cez jestvujúce miestne komunikácie. V objekte sú priestory obchodu (10), služieb, administratívy (16) a bývania (60). Navrhnuté sú 2 dopravné vjazdy – rampa do garáže na 1. a 2. podzemnom podlaží (78 parkovacích miest) a priamy vjazd na spevnenú plochu na teréne (20 parkovacích miest)."
 icon: "/img/polyfunkcny-dom-topolcianska/Topolcianska_riesene_uzemie.jpg"
 source: "https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf"
 sources: ["https://www.enviroportal.sk/sk/eia/detail/polyfunkcny-dom-bratislava-petrzalka-topolcianska-ul-", "https://zverejnovanie.bratislava.sk/assets/File.ashx?id_org=700026&id_dokumenty=59362", "https://www.petrzalka.sk/wp-content/uploads/2020/02/Topolcianska_UR_PK_namietky_PET20200012217.pdf", "https://zastupitelstvo.bratislava.sk/data/att/41660.pdf", "https://bratislava.blob.core.windows.net/media/Default/Dokumenty/Str%C3%A1nky/2019%20Peticia%20proti%20vystavbe%20BD-Topolcianska.pdf", "https://www.petrzalka.sk/2018-10-31-polyfunkcny-bytovy-dom-topolcianska-bratislava/", "https://www.petrzalka.sk/2019-05-24-prezentacia-investicneho-zameru-polyfunkcny-dom-topolcianska/", "https://www.petrzalka.sk/wp-content/uploads/2019/03/Uznesenia-MZ-26.03.2019.pdf"]
 amount: 0
 schedule: 
 - title: Záväzné stanovisko hlavného mesta
-  dateReal: 5.10.2018
-- title: Petícia proti výstavbe „Polyfunkčného bytového domu Topoľčianska“
+  dateReal: 05.10.2018
+- title: Petícia proti výstavbe
+  dateReal: 28.02.2019
+- title: Uznesenie Miestneho zastupiteľstva
   dateReal: 26.03.2019
-- title: Petícia proti výstavbe „Polyfunkčného bytového domu Topoľčianska“
+- title: Uznesenie Mestského zastupiteľstva
   dateReal: 25.04.2019
-- title: Verejna prezentacia
-  dateReal: 29.05.2019
-- title: Uznesenie 150/2019
-  dateReal: 25.04.2019
-- title: UZNESENIA Miestneho zastupiteľstva
-  dateReal: 4.2.2020
-- title: R O Z H O D N U T I E
+- title: Začatie územného konania
+  dateReal: 07.01.2020
+- title: Uznesenie Miestneho zastupiteľstva
+  dateReal: 04.02.2020
+- title: Prerušenie územného konania
   dateReal: 17.02.2020
 ---
-
+## Investičný zámer
 Polyfunkčný objekt s prevládajúcou funkciou
 bývania (68 %) s 8 nadzemnými a 2 podzemnými podlažiami, dopravne prístupným cez jestvujúce
 miestne komunikácie. V objekte sú priestory obchodu (10), služieb, administratívy (16) a bývania
@@ -46,36 +46,24 @@ komunikácie a plochy situuje v rámci parcely vo vlastníctve predkladateľa.
 {{< /gallery >}}
 
 {{% timeline date="17.02.2020" title="Prerušenie územného konania" %}}
-#### Odôvodnenie
+###### Odôvodnenie
 
-Navrhovateľ, spoločnosť VI GROUP, s.r.o., Roľnícka 157, 831 07 Bratislava, IČO: 35 972 131,
-podal dňa 16. 12. 2019 žiadosť o vydanie územného rozhodnutia na stavbu: „Polyfunkčný bytový dom
-Topoľčianska, Bratislava“ nehnuteľnosť na pozemkoch parc. č. 1563, 1561, 1562, 1558, 1557, 1556 k.
-ú. Petržalka, členenú na konkrétne stavebné objekty uvedené vyššie. Uvedeným dňom bolo v zmysle § 18
-ods. 3 zákona č. 71/1967 Zb. (správny poriadok) v znení neskorších predpisov začaté konanie.
-Stavebný úrad pod číslom 30/2020/10-UKSP/ozn.-Va zo dňa 07. 01. 2020 v súlade s ust. § 36
-ods. 1 stavebného zákona oznámil začatie územného konania dotknutým orgánom a účastníkom konania
-a súčasne nariadil za účelom prerokovania návrhu v predmete veci ústne pojednávanie spojené s
-miestnym zisťovaním, ktoré sa uskutočnilo dňa 30. 01. 2020. V citovanom známení stavebný úrad
-nesprávne uviedol navrhovateľa – spoločnosť AQUATERM, spol. s r. o. so sídlom na ul. Stredná 84, 821
-04 Bratislava. Správne má byť uvedené, že navrhovateľom je spoločnosť VI GROUP, s.r.o., Roľnícka
-157, 831 07 Bratislava.
 V konaní boli vznesené námietky účastníka konania smerujúce, okrem iného, proti záväznému
 stanovisku Hlavného mesta SR Bratislavy k investičnej činnosti MAGS OUIC 56556/17-434617 zo dňa
-05. 10. 2018.
+05.10.2018.
 Podľa ust. 140b ods. 5 stavebného zákona pri riešení rozporov medzi dotknutými orgánmi
 vyplývajúcich zo záväzných stanovísk sa postupuje podľa § 136. Ak námietky účastníkov konania
 smerujú proti obsahu záväzného stanoviska, stavebný úrad konanie preruší a vyžiada si od dotknutého
 orgánu stanovisko k námietkam. Ak dotknutý orgán stanovisko nezmení, stavebný úrad si vyžiada
 potvrdenie alebo zmenu záväzného stanoviska od orgánu, ktorý je nadriadeným orgánom dotknutého
 orgánu. Počas prerušenia konania neplynú lehoty na rozhodnutie veci stavebným úradom.
-V zmysle uvedeného si stavebný úrad listom č. 30/2020/10-UKSP/Va-nam zo dňa 17. 02. 2020
+V zmysle uvedeného si stavebný úrad listom č. 30/2020/10-UKSP/Va-nam zo dňa 17.02.2020
 vyžiadal od dotknutého orgánu stanovisko k námietkam.
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/02/Topolcianska_UR_PK_namietky_PET20200012217.pdf)
 {{% /timeline  %}}
 
-{{% timeline date="4.2.2020" title="Uznesenie Miestneho zastupiteľstva" %}}
+{{% timeline date="04.02.2020" title="Uznesenie Miestneho zastupiteľstva" %}}
 Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka
 
 * berie na vedomie
@@ -106,12 +94,11 @@ zámery“ - v časti „Všetky konania“ od dátumu18.12.2018 až do súčasn
 pravidelné zverejňovanie v budúcnosti, a aby zabezpečili zverejňovanie oznamov v
 menovaných kategóriách v počte 6 posledných zverejnených oznamov viditeľných
 priamo na hlavnej stránke – úvodná stránka elektronickej tabule.
-Termín: do 29.2.2020
 * žiada prednostu a starostu mestskej časti Bratislava-Petržalka,
  aby zabezpečili doplnenie zverejnených oznamov o územných a stavebných konaniach
  na elektronickej tabuli mestskej časti Bratislava-Petržalka, v časti „Územné a stavebné
  konania, investičné zámery“ – „Všetky konania“ aj informácie, ktoré sú zverejnené v
- kategóriách „Žiadosti+EIA“ a „Investičné zámery“ od dátumu18.12.2018 až do
+ kategóriách „Žiadosti+EIA“ a „Investičné zámery“ od dátumu 18.12.2018 až do
  súčasnosti a následné pravidelné zverejňovanie v budúcnosti.
 * žiada starostu,
  aby sa obrátil na krajskú prokuratúru o preskúmanie zákonnosti a súladu záväzného
@@ -128,7 +115,7 @@ Termín: do 29.2.2020
 [zdroj](https://bratislava.blob.core.windows.net/media/Default/Dokumenty/Str%C3%A1nky/2019%20Peticia%20proti%20vystavbe%20BD-Topolcianska.pdf)
 {{% /timeline  %}} -->
 
-{{% timeline date="25.04.2019" title="Materiál na rokovanie Mestského zastupiteľstva " %}}
+{{% timeline date="25.04.2019" title="Uznesenie Mestského zastupiteľstva " %}}
 Hlavné mesto posúdilo žiadosť o vydanie záväzného stanoviska k investičnej
 činnosti na podklade predloženej dokumentácie stavby pre územné rozhodnutie (DUR
 11/2017) navrhovanej stavby. Po posúdení jednotlivými odbornými oddeleniami
@@ -136,7 +123,7 @@ magistrátu ako i útvarom hlavnej architektky hlavné mesto konštatovalo, že 
 zámer nie je v rozpore s Územným plánom hlavného mesta SR Bratislavy, rok 2007, v
 znení zmien a doplnkov a vydalo súhlasné záväzné stanovisko k investičnej činnosti so
 stanovenými podmienkami pre územné rozhodnutie pod č. MAGS OUIC 56556/17-
-4347617 zo dňa 05. 10. 2018.
+4347617 zo dňa 05.10.2018.
 
 Investor predložil dokumentáciu navrhovanej stavby (ďalej len „D U R 11/2017“ ) ,
 spracovanú a potvrdenú oprávnenou osobou podľa § 45 stavebného zákona (Ing. arch.
@@ -170,7 +157,7 @@ Mestské zastupiteľstvo po prerokovaní materiálu berie na vedomie Petíciu pr
 [zdroj](https://zastupitelstvo.bratislava.sk/data/att/41660.pdf)
 {{% /timeline  %}}
 
-{{% timeline date="26.03 2019" title="UZNESENIA Miestneho zastupiteľstva" %}}
+{{% timeline date="26.03.2019" title="Uznesenie Miestneho zastupiteľstva" %}}
 Miestne zastupiteľstvo mestskej časti Bratislava - Petržalka
 
 * berie na vedomie predloženú správu Petícia proti výstavbe polyfunkčného bytového domu Topoľčianska
@@ -186,7 +173,7 @@ zámeru
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2019/03/Uznesenia-MZ-26.03.2019.pdf)
 {{% /timeline  %}}
 
-{{% timeline date="28.02.2019" title="Petícia proti výstavbe „Polyfunkčného bytového domu Topoľčianska“" %}}
+{{% timeline date="28.02.2019" title="Petícia proti výstavbe" %}}
 Navrhovaným investičným zámerom budú jednoznačne a vo významnej miere negatívne
 ovplyvnené dopravné nároky na už v súčasnosti neprimerane preťaženej miestnej komunikácii -
 Topoľčianskej ulici. To, že k takémuto stavu dôjde, je možné priamo dokumentovať inými
@@ -204,7 +191,7 @@ nesporne spojené s negatívnymi dôsledkami na životné prostredie.
 [zdroj](https://www.petrzalka.sk/2018-10-31-polyfunkcny-bytovy-dom-topolcianska-bratislava/)
 {{% /timeline  %}} -->
 
-{{% timeline date="5.10.2018" title="Záväzné stanovisko hlavného mesta" %}}
+{{% timeline date="05.10.2018" title="Záväzné stanovisko hlavného mesta" %}}
 Polyfunkčný objekt s prevládajúcou funkciou
 bývania (68 %) s 8 nadzemnými a 2 podzemnými podlažiami, dopravne prístupným cez jestvujúce
 miestne komunikácie. V objekte sú priestory obchodu (10), služieb, administratívy (16) a bývania
@@ -224,8 +211,6 @@ komunikácie a plochy situuje v rámci parcely vo vlastníctve predkladateľa.
 [zdroj](https://zverejnovanie.bratislava.sk/assets/File.ashx?id_org=700026&id_dokumenty=59362)
 {{% /timeline  %}}
 
-<!-- TODO ********************************* -->
-https://www.petrzalka.sk/2020-03-04-uzemne-konania/ AJ „Polyfunkčný dom na Humenskom nám. v Bratislave“ !!!!!!!!!!!!!!
 
 
 

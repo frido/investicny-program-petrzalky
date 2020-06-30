@@ -2,6 +2,8 @@
 
 # zaverecny ucet a pomer cerpania penazi
 
+# Areál voľného času Vojenský dvor
+
 # URBAN-E – informačný materiál
 https://www.petrzalka.sk/wp-content/uploads/2020/01/Z%C3%A1pisnica-%C4%8D.7-janu%C3%A1r-2020.pdf
 https://zastupitelstvo.bratislava.sk/data/att/23543.pdf

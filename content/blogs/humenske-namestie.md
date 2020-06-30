@@ -1,5 +1,5 @@
 ---
-title: "Humenské námestie"
+title: "Polyfunkčný dom na Humenskom námestí"
 date: 2020-06-23T19:14:07+02:00
 draft: false
 categories: ["projekt"]
@@ -17,6 +17,8 @@ schedule:
   dateReal: 23. október 2018
 - title: Vydané súhlasné záväzné stanovisko
   dateReal: 25. júl 2019
+- title: Začatie územného konania
+  dateReal: 27. november 2019
 - title: Zasadnutie Miestneho zastupiteľstva
   dateReal: 4. február 2020
 - title: Petícia PROTI zástavbe parku a časti parkoviska
@@ -122,7 +124,7 @@ konštatuje, že neboli naplnené podmienky, ktoré by oprávňovali iniciovať 
 {{% /timeline  %}}
 
 
-{{% timeline date="4.2. 2020" title="Zasadnutie Miestneho zastupiteľstva" %}}
+{{% timeline date="04.02.2020" title="Zasadnutie Miestneho zastupiteľstva" %}}
 
 Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka
 * **vyjadruje nesúhlas** s výstavbou na Humenskom námestí, 
@@ -134,6 +136,9 @@ Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf)
 {{% /timeline  %}}
 
+{{% timeline date="27.11.2019" title="Začatie územného konania" %}}
+[zdroj](https://www.petrzalka.sk/2020-03-04-uzemne-konania/)
+{{% /timeline  %}}
 
 {{% timeline date="25.7.2019" title="Súhlasné záväzné stanovisko" %}}
 
@@ -176,7 +181,7 @@ Navrhovaná zástavba nepredstavuje neprimeranú intenzifikáciu dotknutej lokal
 {{% /timeline  %}}
 
 
-{{% timeline date="18.9.2017" title="Zamietavé záväzné stanovisko" %}}
+{{% timeline date="18.09.2017" title="Zamietavé záväzné stanovisko" %}}
 
 ###### žiadosť zo dňa : 31.7.2017
 
