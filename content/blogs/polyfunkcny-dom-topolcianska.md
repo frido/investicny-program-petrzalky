@@ -25,12 +25,30 @@ schedule:
   dateReal: 17.02.2020
 ---
 
+Polyfunkčný objekt s prevládajúcou funkciou
+bývania (68 %) s 8 nadzemnými a 2 podzemnými podlažiami, dopravne prístupným cez jestvujúce
+miestne komunikácie. V objekte sú priestory obchodu (10), služieb, administratívy (16) a bývania
+(60). Navrhnuté sú 2 dopravné vjazdy – rampa do garáže na 1. a 2. podzemnom podlaží (78
+parkovacích miest) a priamy vjazd na spevnenú plochu na teréne (20 parkovacích miest). 
+
+Územie je súčasťou aktuálne spracovávanej urbanistickej štúdie centrálnej rozvojovej osi (CRO)
+Petržalky. Pripravovaná štúdia sa zaoberá prehodnotením rozvoja územia pozdĺž severojužnej osi
+okolo Chorvátskeho ramena v Mestskej časti Bratislava-Petržalka a návrhom zmien a doplnkov
+ÚPN 2007 HM SR Bratislavy v znení zmien a doplnkov v danej lokalite.
+
+Predložený IZ s prihliadnutím na majetko-právne vzťahy v území nebráni rozvoju územia v zmysle
+pripravovanej urbanistickej štúdie Centrálnej rozvojovej osi Petržalka (ďalej CRO). Objekt svojou
+hmotou a úpravou okolia neblokuje zámery v zmysle pripravovanej štúdie CRO a Navrhované
+komunikácie a plochy situuje v rámci parcely vo vlastníctve predkladateľa. 
+
 {{< gallery >}}
 {{< figure link="img/polyfunkcny-dom-topolcianska/Topolcianska_riesene_uzemie.jpg" src="img/polyfunkcny-dom-topolcianska/Topolcianska_riesene_uzemie.jpg" title="" >}}
 {{< /gallery >}}
 
-{{% timeline date="17.02.2020" title="p r e r u š u j e územné konanie" %}}
-Navrhovateľ: spoločnosť VI GROUP, s.r.o., Roľnícka 157, 831 07 Bratislava, IČO: 35 972 131,
+{{% timeline date="17.02.2020" title="Prerušenie územného konania" %}}
+#### Odôvodnenie
+
+Navrhovateľ, spoločnosť VI GROUP, s.r.o., Roľnícka 157, 831 07 Bratislava, IČO: 35 972 131,
 podal dňa 16. 12. 2019 žiadosť o vydanie územného rozhodnutia na stavbu: „Polyfunkčný bytový dom
 Topoľčianska, Bratislava“ nehnuteľnosť na pozemkoch parc. č. 1563, 1561, 1562, 1558, 1557, 1556 k.
 ú. Petržalka, členenú na konkrétne stavebné objekty uvedené vyššie. Uvedeným dňom bolo v zmysle § 18
@@ -53,39 +71,34 @@ potvrdenie alebo zmenu záväzného stanoviska od orgánu, ktorý je nadriadený
 orgánu. Počas prerušenia konania neplynú lehoty na rozhodnutie veci stavebným úradom.
 V zmysle uvedeného si stavebný úrad listom č. 30/2020/10-UKSP/Va-nam zo dňa 17. 02. 2020
 vyžiadal od dotknutého orgánu stanovisko k námietkam.
-Na základe uvedeného rozhodol stavebný úrad tak, ako je uvedené vo výroku tohto rozhodnutia.
-
 
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/02/Topolcianska_UR_PK_namietky_PET20200012217.pdf)
 {{% /timeline  %}}
 
-{{% timeline date="4.2.2020" title="UZNESENIA Miestneho zastupiteľstva" %}}
- Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka
+{{% timeline date="4.2.2020" title="Uznesenie Miestneho zastupiteľstva" %}}
+Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka
 
-a) b e r i e n a v e d o m i e
+* berie na vedomie
 informáciu o začatí územného konania stavby Polyfunkčný bytový dom Topoľčianska
  na ul. Topoľčianska, Bratislava.
-b) ž i a d a starostu mestskej časti Bratislava-Petržalka,
+* žiada starostu mestskej časti Bratislava-Petržalka,
 aby v prebiehajúcom územnom konaní stavby zohľadnil požiadavky dotknutých
  občanov, v súlade s Uznesením miestneho zastupiteľstva č. 37 z 26.3.2019 a
 výsledkami verejnej prezentácie investičného zámeru stavby z 29.5.2019.
-
-c) ž i a d a prednostu a starostu mestskej časti Bratislava-Petržalka,
+* žiada prednostu a starostu mestskej časti Bratislava-Petržalka,
  aby zabezpečili dôsledné a prehľadné zverejňovanie oznamov o územných a
  stavebných konaniach na elektronickej tabuli mestskej časti Bratislava-Petržalka, v 
 častiach „Oznamy a informácie o verejných vyhláškach“ a „Územné a stavebné
  konania, investičné zámery“.
-
-d) ž i a d a prednostu a starostu mestskej časti Bratislava-Petržalka,
+* žiada prednostu a starostu mestskej časti Bratislava-Petržalka,
 aby zabezpečili prostredníctvom e-mailu informovanie o začatí územných konaní,
 stavebných konaní a ústnych pojednávaní u stavieb, ku ktorým boli vznesené
 námietky:
-• poslancov mestskej časti Bratislava-Petržalka,
-• členov petičných výborov, ktorých petícia súvisí so stavbou,
-• dotknuté fyzické a právnické osoby, ktoré podali k stavbe námietku s uvedením ich
+   * poslancov mestskej časti Bratislava-Petržalka,
+   * členov petičných výborov, ktorých petícia súvisí so stavbou,
+   * dotknuté fyzické a právnické osoby, ktoré podali k stavbe námietku s uvedením ich
 emailovej adresy.
-
-e) ž i a d a prednostu a starostu mestskej časti Bratislava-Petržalka,
+* žiada prednostu a starostu mestskej časti Bratislava-Petržalka,
 aby zabezpečili doplnenie zverejnených oznamov o územných a stavebných konaniach
  na elektronickej tabuli mestskej časti Bratislava-Petržalka, v častiach „Oznamy a
  informácie o verejných vyhláškach“ a „Územné a stavebné konania, investičné
@@ -94,21 +107,20 @@ pravidelné zverejňovanie v budúcnosti, a aby zabezpečili zverejňovanie ozna
 menovaných kategóriách v počte 6 posledných zverejnených oznamov viditeľných
 priamo na hlavnej stránke – úvodná stránka elektronickej tabule.
 Termín: do 29.2.2020
-f) ž i a d a prednostu a starostu mestskej časti Bratislava-Petržalka,
+* žiada prednostu a starostu mestskej časti Bratislava-Petržalka,
  aby zabezpečili doplnenie zverejnených oznamov o územných a stavebných konaniach
  na elektronickej tabuli mestskej časti Bratislava-Petržalka, v časti „Územné a stavebné
  konania, investičné zámery“ – „Všetky konania“ aj informácie, ktoré sú zverejnené v
  kategóriách „Žiadosti+EIA“ a „Investičné zámery“ od dátumu18.12.2018 až do
  súčasnosti a následné pravidelné zverejňovanie v budúcnosti.
-Termín: do 29.2.2020
-g) ž i a d a starostu,
+* žiada starostu,
  aby sa obrátil na krajskú prokuratúru o preskúmanie zákonnosti a súladu záväzného
  stanoviska s územným plánom hlavného mesta Bratislava. 
  
 [zdroj](https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%C3%A9.pdf)
 {{% /timeline  %}}
 
-{{% timeline date="16.12.2019" title="Zacatie Územné konania" %}}
+{{% timeline date="07.01.2020" title="Začatie územného konania" %}}
 [zdroj](https://www.petrzalka.sk/2020-03-04-uzemne-konania/)
 {{% /timeline  %}}
 
@@ -119,7 +131,7 @@ g) ž i a d a starostu,
 {{% timeline date="25.04.2019" title="Materiál na rokovanie Mestského zastupiteľstva " %}}
 Hlavné mesto posúdilo žiadosť o vydanie záväzného stanoviska k investičnej
 činnosti na podklade predloženej dokumentácie stavby pre územné rozhodnutie (DUR
-11/2017) navrhovanej stavby. Po posúdení jednotlivým i odbornými oddeleniami
+11/2017) navrhovanej stavby. Po posúdení jednotlivými odbornými oddeleniami
 magistrátu ako i útvarom hlavnej architektky hlavné mesto konštatovalo, že uvažovaný
 zámer nie je v rozpore s Územným plánom hlavného mesta SR Bratislavy, rok 2007, v
 znení zmien a doplnkov a vydalo súhlasné záväzné stanovisko k investičnej činnosti so
@@ -134,6 +146,7 @@ konkrétneho územia. Dosiahnuté regulativy intenzity využitia územia a podie
 bývania a občianskej vybavenosti: IPP = 2,36, IZP = 0,29, K Z = 0,28; podiel podlažných
 plôch bývania = 68 % a občianskej vybavenosti= 32 %, potvrdili súlad s platnou
 územnoplánovacou dokumentáciou.
+
 Navrhovaná stavba nezasahuje do jestvujúcich parkovacích plôch, ktoré sú
 situované pri viacpodlažných bytových domoch v okoli, nie je v tesnom dotyku s
 jestvujúcou zástavbou v stabilizovanom území, čiže ju nijako neobmedzuje, rešpektuje
@@ -141,6 +154,7 @@ regulatívy t. č. nezastavanej rozvojovej plochy (vrátane koeficientu zelene),
 na mieste namietať neprimeranú intenzifikáciu dotknutej lokality. Parkovanie rieši pod
 objektom na vlastnom pozemku, v rámci odborného posúdenia riešenia dopravy, vrátane
 dopravného napojenia, neboli zistené nedostatky.
+
 Navrhovaná stavba bude dopravne prístupná cez jestvujúce miestne komunikácie,
 navrhnuté sú 2 dopravné vjazdy priamo ku objektu - rampa do garáže (na 1. a 2.
 podzemnom podlaží navrhovanej stavby - spolu 78 parkovacích miest) a priamy vjazd na
@@ -151,24 +165,21 @@ vypracovania dokumentácie zodpovedá projektant, ktorý vykonáva príslušnú 
 časť navrhovanej stavby spracoval príslušný autorizovaný stavebný inžinier Ing.
 Benček.
 
-Mestské zastupiteľstvo po prerokovaní materiálu
-berie na vedomie
-Petíciu proti výstavbe „Polyfunkčného bytového domu Topoľčianska“
+Mestské zastupiteľstvo po prerokovaní materiálu berie na vedomie Petíciu proti výstavbe „Polyfunkčného bytového domu Topoľčianska“
 
 [zdroj](https://zastupitelstvo.bratislava.sk/data/att/41660.pdf)
 {{% /timeline  %}}
 
 {{% timeline date="26.03 2019" title="UZNESENIA Miestneho zastupiteľstva" %}}
 Miestne zastupiteľstvo mestskej časti Bratislava - Petržalka
-a) b e r i e n a v e d o m i e
-predloženú správu Petícia proti výstavbe polyfunkčného bytového domu Topoľčianska,
-3
-b) ž i a d a starostu mestskej časti Bratislava - Petržalka
+
+* berie na vedomie predloženú správu Petícia proti výstavbe polyfunkčného bytového domu Topoľčianska
+* žiada starostu mestskej časti Bratislava - Petržalka
 aby v prebiehajúcom územnom konaní stavby Polyfunkčný bytový dom Topoľčianska
 Petržalka Bratislava zohľadnil požiadavky signatárov Petície proti výstavbe Polyfunkčného
 bytového domu Topoľčianska, v súlade s vyjadrením magistrátu hl. mesta SR Bratislavy zo
 17.8.2015,
-c) ž i a d a starostu
+* žiada starostu
 o zaslanie žiadosti hlavnému mestu SR o preskúmanie záväzného stanoviska k predmetnému
 zámeru
 
