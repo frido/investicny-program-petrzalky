@@ -30,18 +30,19 @@
 html {
   font-size: 16px;
   font-size: calc(0.8rem + 0.3vw);
-  background-color: #f9f9f9;
+  background-color: #f2f4f6;
 }
 
 body {
-  font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   line-height: 1.6;
   margin: 0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f9f9f9;
+  background-color: #f2f4f6;
+  color: #1b2d45;
 }
 
 h1, h2, h3, h4, h5, h6, b, strong, th {
@@ -64,7 +65,7 @@ h3 {
 }
 
 a {
-  color: #134e84;
+  color: #00214d;
   text-decoration: inherit;
 }
 
@@ -112,12 +113,11 @@ nav a {
 }
 
 .card {
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
-          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
   -webkit-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
   border: 0;
   margin-bottom: 1em;
+  background-color: #fffffe;
 }
 
 .project-list-title-holder {
@@ -135,7 +135,7 @@ nav a {
 .amount {
   margin: 0 5px;
   padding: 5px;
-  background: chocolate;
+  background: #ff5470;
   font-weight: 900;
   color: white;
   padding-top: 3px;
@@ -153,7 +153,6 @@ nav a {
 
 .grant-list p {
   margin-bottom: 0;
-  color: dimgray;
 }
 
 .schedule,
@@ -165,7 +164,7 @@ nav a {
 
 .schedule,
 .updated {
-  color: #8e8e91;
+  color: #ff5470;
 }
 
 .schedule-title {
@@ -178,10 +177,6 @@ nav a {
 
 .three-in-row {
   width: 33%;
-}
-
-.index p {
-  color: dimgray;
 }
 
 .logo h1 {
@@ -204,5 +199,31 @@ nav a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+
+.point {
+  border-left: 1px #ff5470 solid;
+}
+
+.point h2 {
+  display: inline-block;
+}
+
+.point .point-mark {
+  width: 20px;
+  border: solid 5px #ff5470;
+  min-width: 10px;
+  display: inline-block;
+  height: 20px;
+  border-radius: 5px;
+  left: -10px;
+  position: relative;
+  background: #fffffe;
+  top: 3px;
+}
+
+.point .point-date {
+  color: #ff5470;
+  padding-right: 10px;
 }
 /*# sourceMappingURL=test.css.map */

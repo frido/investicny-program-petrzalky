@@ -1,12 +1,14 @@
-<div class="point" style=" border-left: 1px chocolate solid;">
-<span style="width: 20px;border: solid 5px chocolate;min-width: 10px;display: inline-block;height: 20px;border-radius: 5px;left: -10px;position: relative;background: white;top: 3px; ">
-</span>
-<span style="color: chocolate; padding-right: 10px;">
+<div class="point">
+<span class="point-mark"></span>
+<span class="point-date">
     {{ .Get "date" }}
 </span>
-<h2 style="display: inline-block;">
+<h2>
     {{ .Get "title" }}
 </h2>
+<span>
+    <a href="{{ .Get "source" }}" target="blank"><img src="/img/external-link.svg" style="float:right"></a>
+</span>
 <div class="timeline-body">
 
     {{ .Inner }}
