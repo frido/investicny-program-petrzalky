@@ -5,7 +5,22 @@
     </h2>
     {{ if .Params.amount }}<span class="amount">{{ .Params.amount }}€</span>{{ end }}
   </header>
-  <p class="card-text">
-    {{ .Params.description }}
-  </p>
+  <div class="row">
+    {{- if .Params.icon }}
+    <div class="preview col-md-3" style="margin: auto;">
+      <img src="{{ .Params.icon }}" class="card-img" alt="...">
+    </div>
+    <div class="col-md-9">
+      <p class="card-text">
+        {{ .Params.description }}
+      </p>
+    </div>
+    {{- else }}
+    <div class="col-md-12">
+      <p class="card-text">
+        {{ .Params.description }}
+      </p>
+    </div>
+    {{- end }}
+  </div>
 </article>

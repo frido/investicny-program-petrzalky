@@ -226,4 +226,8 @@ nav a {
   color: #ff5470;
   padding-right: 10px;
 }
+
+.preview img {
+  max-height: 200px;
+}
 /*# sourceMappingURL=test.css.map */
