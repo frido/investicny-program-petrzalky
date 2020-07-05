@@ -1,13 +1,10 @@
 --> stranka uzemne a stavebne konania na stranke petrzalka.sk
 
+https://www.facebook.com/groups/409352002596836/?post_id=1299174240281270&notif_id=1593691772625916&notif_t=page_group_post&ref=notif
+
 # zaverecny ucet a pomer cerpania penazi
 
 # Areál voľného času Vojenský dvor
-
-# URBAN-E – informačný materiál
-https://www.petrzalka.sk/wp-content/uploads/2020/01/Z%C3%A1pisnica-%C4%8D.7-janu%C3%A1r-2020.pdf
-https://zastupitelstvo.bratislava.sk/data/att/23543.pdf
-https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-21_overena.pdf
 
 # Zámer Šrobárovo námestie
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
