@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<section>
+<main>
+  <div class="paletteB">
+<section class="container vertical">
   <header>
     <h1>{{ .Title | default "Rozpočet" | humanize }}</h1>
   </header>
@@ -12,5 +14,7 @@
   {{ end }}
 
 </section>
+</div>
+</main>
 
 {{ end }}

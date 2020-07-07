@@ -1,11 +1,12 @@
 {{ define "main" }}
-
-<article class="card card-body">
+<main>
+  <div class="paletteC">
+<article class="container article">
   <header>
     <h1>{{ .Title }}</h1>
   </header>
 
-  <div class="grant-list">
+  <div class="flex-wrap c-3">
     {{ range .Params.list }}
     {{ partial "grant-item.html"  . }}
     {{ end }}
@@ -14,5 +15,7 @@
   {{ .Content }}
   
 </article>
+</div>
+</main>
 
 {{ end }}

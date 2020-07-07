@@ -1,0 +1,27 @@
+{
+  "name": "hugo-petrzalka",
+  "version": "1.0.0",
+  "description": "**images**: https://www.figma.com/file/VpasusNFizqEXiN6p2lOUU/samosprava-logo1?node-id=10%3A51\r **pictoChart**: https://create.piktochart.com/dashboard\r **facebook debuger**: https://developers.facebook.com/tools/debug/?q=petrzalka.info\r **nice google fonts**: https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frido/investicny-program-petrzalky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frido/investicny-program-petrzalky/issues"
+  },
+  "homepage": "https://github.com/frido/investicny-program-petrzalky#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "popper.js": "^1.16.1"
+  }
+}

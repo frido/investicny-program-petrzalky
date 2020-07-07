@@ -1,0 +1,248 @@
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1.2rem;
+    margin: 0;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    & > header {
+        background-color: #232946;
+        h1, a, a:hover {
+            color: #fffffe;
+        }
+    }
+    
+}
+
+figure {
+    margin: 1em 0;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.paletteA {
+    background-color: #232946;
+    color: #b8c1ec;
+    section {
+        header {
+            a, h1 {
+                color: #fffffe;
+            }
+        }   
+    }
+    article {
+        background-color: #232946;
+        a, h1, h2, h3, h4, h5, h6 {
+            color: #fffffe;
+        }
+    }
+}
+
+.paletteB {
+    background-color: #232946;
+    color: #b8c1ec;  
+    section {
+        header {
+            a, h1 {
+                color: #fffffe;
+            }
+        }
+    }
+    article {
+        background-color: #fffffe;
+        color: #232946;
+        a, h1, h2, h3, h4, h5, h6 {
+            color: #232946;
+        }
+        .amount {
+            color: #fffffe;
+        }
+    }
+}
+
+.paletteC {
+    background-color: #d4d8f0;
+    color: #232946;
+    section {
+        header {
+            a, h1 {
+                color: #232946;
+            }
+        }
+    }
+    article {
+        background-color: #fffffe;
+        a, h1, h2, h3, h4, h5, h6 {
+            color: #232946;
+        }
+    }
+    article[class~="container"] {
+        background-color: #d4d8f0;
+        a, h1, h2, h3, h4, h5, h6 {
+            color: #232946;
+        }
+    }
+}
+
+footer {
+    background-color: #232946;
+    color: #fffffe;
+    a {
+        color: #eebbc3;
+    }
+}
+
+strong {
+    color: #eebbc3;
+}
+
+section {
+    header {
+        h1 {
+            font-weight: 900;
+        }
+    }
+    &.vertical {
+        & > article:not(:last-child) {
+            --bs-gutter-x: 1.5rem;
+            margin-bottom: var(--bs-gutter-x);
+        }
+    }
+}
+
+article {
+    header {
+        h1 {
+            font-weight: 900;
+        }
+    }
+}
+
+.container {
+    padding-top: 3rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+div.button {
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    & > a {
+        background-color: #eebbc3;
+        color: #232946;
+        font-weight: 700;
+        padding: 1rem;
+        display: inline-flex;
+    }
+}
+
+img.preview  {
+    max-height: 200px;
+}
+
+.article {
+    @extend .card;
+    @extend .card-body; 
+    border: 0;
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    & > * {
+        padding: 1rem;
+        height: auto;
+        h2 {
+            width: 100%;
+            font-weight: 700;
+        }
+        article {
+            height: 100%
+        }
+    }
+    &.c-4 > * {
+        @extend .col-md-3;
+    }
+    &.c-3 > * {
+        @extend .col-md-4;
+    }
+}
+
+.amount {
+    margin: 0 5px;
+    padding: 5px;
+    background: #eebbc3;
+    font-weight: 900;
+    color: #232946;
+    padding-top: 3px;
+    margin-left: 0px;
+    border-radius: 0.25rem;
+}
+
+.schedule,
+.updated,
+.budget,
+.sources {
+    padding-bottom: 1em;
+}
+
+.schedule,
+.updated {
+    color: #eebbc3;
+}
+
+.schedule-title {
+    font-weight: bold;
+}
+
+.point {
+    border-left: 1px #eebbc3 solid;
+    h2 {
+        display: inline-block; 
+    }
+    .point-mark {
+        width: 20px;
+        border: solid 5px #eebbc3;
+        min-width: 10px;
+        display: inline-block;
+        height: 20px;
+        border-radius: 5px;
+        left: -10px;
+        position: relative;
+        background: #232946;
+        top: 3px;  
+    }
+    
+    .point-date {
+        color: #eebbc3; 
+        padding-right: 10px;
+    }
+
+    .timeline-body {
+        margin-left: 1em;
+    }
+}
+
+.gallery {
+    display: flex;
+}
+
+.two-in-row {
+    width: 50%;
+}

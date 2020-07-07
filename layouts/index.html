@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en" }}" >
+<html lang="{{ .Site.LanguageCode | default "en" }}">
 
 {{ partial "head"  . }}
 
@@ -7,59 +7,81 @@
 
     {{ partial "header"  . }}
 
-    <main class="container index">
+    <main>
 
-        <section>
-            <header>
+        <div class="paletteA">
+            <section class="container vertical">
+                {{/*  <header>
                 <a href="blogs/">
-                    <h1 class="container-title">Projekty</h1>
+                    <h1>Projekty</h1>
                 </a>
-            </header>
-            {{ range first 3 (where .Site.RegularPages "Section" "=" "blogs") }}
-            {{ partial "project-item.html"  . }}
-            {{ end }}
-        </section>
+            </header>  */}}
+                {{ range first 4 (where .Site.RegularPages "Section" "=" "blogs") }}
+                {{ partial "project-item.html"  . }}
+                {{ end }}
+            </section>
+            <div class="button">
+                <a href="blogs/">
+                    Viac
+                </a>
+            </div>
+        </div>
 
-        <section>
-            <header>
-                <a href="grant/grant-2020">
+        <div class="paletteC">
+            <section class="container">
+                <header>
                     <h1 class="container-title">Športové granty</h1>
+                </header>
+                <div class="flex-wrap c-4">
+                    {{ range where .Site.RegularPages ".Params.grant" "=" "grants-sport" }}
+                    {{ range first 4 .Params.list }}
+                    {{ partial "grant-item.html"  . }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </section>
+            <div class="button">
+                <a href="grant/grant-2020/">
+                    Viac
                 </a>
-            </header>
-            <div class="grant-list">
-                {{ range where .Site.RegularPages ".Params.grant" "=" "grants-sport" }}
-                {{ range first 3 .Params.list }}
-                {{ partial "grant-item.html"  . }}
-                {{ end }}
-                {{ end }}
             </div>
-        </section>
+        </div>
 
-        <section>
-            <header>
-                <a href="grant/dotacie-2020">
+        <div class="paletteC">
+            <section class="container">
+                <header>
                     <h1 class="container-title">Dotácie</h1>
+                </header>
+                <div class="flex-wrap c-4">
+                    {{ range where .Site.RegularPages ".Params.grant" "=" "grants-oz" }}
+                    {{ range first 4 .Params.list }}
+                    {{ partial "grant-item.html"  . }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </section>
+            <div class="button">
+                <a href="grant/dotacie-2020/">
+                    Viac
                 </a>
-            </header>
-            <div class="grant-list">
-                {{ range where .Site.RegularPages ".Params.grant" "=" "grants-oz" }}
-                {{ range first 3 .Params.list }}
-                {{ partial "grant-item.html"  . }}
-                {{ end }}
-                {{ end }}
             </div>
-        </section>
+        </div>
 
-        <section>
-            <header>
-                <a href="budget/2020">
+        <div class="paletteB">
+            <section class="container vertical">
+                <header>
                     <h1 class="container-title">Rozpočet</h1>
+                </header>
+                {{ range where  .Site.RegularPages "Params.master" true }}
+                {{ partial "budget-item.html"  . }}
+                {{ end }}
+            </section>
+            <div class="button">
+                <a href="budget/2020/">
+                    Viac
                 </a>
-            </header>
-            {{ range where  .Site.RegularPages "Params.master" true }}
-            {{ partial "budget-item.html"  . }}
-            {{ end }}
-        </section>
+            </div>
+        </div>
 
     </main>
 

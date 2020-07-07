@@ -1,5 +1,6 @@
 ---
 weight: 4
+master: true
 title: Doprava a komunikácie
 icon: 003.png
 color: "#000000"

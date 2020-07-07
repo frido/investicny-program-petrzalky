@@ -1,5 +1,6 @@
 ---
 weight: 6
+master: true
 title: Kultúra a šport 
 icon: 005.png
 color: "#C68418"

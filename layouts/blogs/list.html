@@ -1,16 +1,20 @@
 {{ define "main" }}
 
-<section>
-  <header>
-    <h1>{{ .Title | default "Posts" | humanize }}</h1>
-  </header>
+<main>
+  <div class="paletteA">
+    <section class="container vertical">
+      <header>
+        <h1>{{ .Title | default "Posts" | humanize }}</h1>
+      </header>
 
-  {{ .Content }}
+      {{ .Content }}
 
-  {{ range where .Site.RegularPages "Section" "=" "blogs" }}
-    {{ partial "project-item.html"  . }}
-  {{ end }}
+      {{ range where .Site.RegularPages "Section" "=" "blogs" }}
+      {{ partial "project-item.html"  . }}
+      {{ end }}
 
-</section>
+    </section>
+  </div>
+</main>
 
 {{ end }}

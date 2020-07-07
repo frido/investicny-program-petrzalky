@@ -2,7 +2,11 @@
 
 https://www.facebook.com/groups/409352002596836/?post_id=1299174240281270&notif_id=1593691772625916&notif_t=page_group_post&ref=notif
 
-# zaverecny ucet a pomer cerpania penazi
+
+# Investičný zámer Námestie Republiky
+https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
+https://www.petrzalka.sk/projekt-revitalizacie-namestia-republiky/
+
 
 # Areál voľného času Vojenský dvor
 
@@ -17,8 +21,6 @@ https://www.petrzalka.sk/wp-content/uploads/2020/01/uznesenia_04_02_2020opraven%
 # Elektricka
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
 
-# Investičný zámer Námestie Republiky
-https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
 
 # Investičný zámer Škola Južné mesto
 https://www.petrzalka.sk/wp-content/uploads/2020/03/KUPVaR-zapisnica_2020-03-03_overena.pdf

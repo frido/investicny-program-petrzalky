@@ -1,14 +1,12 @@
-<article class="card card-body">
-  <header class="project-list-title-holder">
-    <h2>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
+<article class="article">
+  <header>
+      <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
     {{ if .Params.amount }}<span class="amount">{{ .Params.amount }}€</span>{{ end }}
   </header>
   <div class="row">
     {{- if .Params.icon }}
-    <div class="preview col-md-3" style="margin: auto;">
-      <img src="{{ .Params.icon }}" class="card-img" alt="...">
+    <div class="col-md-3" style="margin: auto;">
+      <img src="{{ .Params.icon }}" class="preview card-img" alt="...">
     </div>
     <div class="col-md-9">
       <p class="card-text">
