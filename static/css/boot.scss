@@ -1,4 +1,5 @@
 @import '../../node_modules/bootstrap/scss/bootstrap';
+@import '_variables';
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -9,98 +10,6 @@ body {
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
-    & > header {
-        background-color: #232946;
-        h1, a, a:hover {
-            color: #fffffe;
-        }
-    }
-    
-}
-
-figure {
-    margin: 1em 0;
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-.paletteA {
-    background-color: #232946;
-    color: #b8c1ec;
-    section {
-        header {
-            a, h1 {
-                color: #fffffe;
-            }
-        }   
-    }
-    article {
-        background-color: #232946;
-        a, h1, h2, h3, h4, h5, h6 {
-            color: #fffffe;
-        }
-    }
-}
-
-.paletteB {
-    background-color: #232946;
-    color: #b8c1ec;  
-    section {
-        header {
-            a, h1 {
-                color: #fffffe;
-            }
-        }
-    }
-    article {
-        background-color: #fffffe;
-        color: #232946;
-        a, h1, h2, h3, h4, h5, h6 {
-            color: #232946;
-        }
-        .amount {
-            color: #fffffe;
-        }
-    }
-}
-
-.paletteC {
-    background-color: #d4d8f0;
-    color: #232946;
-    section {
-        header {
-            a, h1 {
-                color: #232946;
-            }
-        }
-    }
-    article {
-        background-color: #fffffe;
-        a, h1, h2, h3, h4, h5, h6 {
-            color: #232946;
-        }
-    }
-    article[class~="container"] {
-        background-color: #d4d8f0;
-        a, h1, h2, h3, h4, h5, h6 {
-            color: #232946;
-        }
-    }
-}
-
-footer {
-    background-color: #232946;
-    color: #fffffe;
-    a {
-        color: #eebbc3;
-    }
-}
-
-strong {
-    color: #eebbc3;
 }
 
 section {
@@ -125,12 +34,20 @@ article {
     }
 }
 
-.container {
-    padding-top: 3rem;
+figure {
+    margin: 1em 0;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 a {
     text-decoration: none;
+}
+
+.container {
+    padding-top: 3rem;
 }
 
 div.button {
@@ -138,8 +55,6 @@ div.button {
     margin-top: 1rem;
     padding-bottom: 1rem;
     & > a {
-        background-color: #eebbc3;
-        color: #232946;
         font-weight: 700;
         padding: 1rem;
         display: inline-flex;
@@ -187,9 +102,7 @@ img.preview  {
 .amount {
     margin: 0 5px;
     padding: 5px;
-    background: #eebbc3;
     font-weight: 900;
-    color: #232946;
     padding-top: 3px;
     margin-left: 0px;
     border-radius: 0.25rem;
@@ -202,35 +115,26 @@ img.preview  {
     padding-bottom: 1em;
 }
 
-.schedule,
-.updated {
-    color: #eebbc3;
-}
-
 .schedule-title {
     font-weight: bold;
 }
 
 .point {
-    border-left: 1px #eebbc3 solid;
     h2 {
         display: inline-block; 
     }
     .point-mark {
         width: 20px;
-        border: solid 5px #eebbc3;
         min-width: 10px;
         display: inline-block;
         height: 20px;
         border-radius: 5px;
         left: -10px;
         position: relative;
-        background: #232946;
         top: 3px;  
     }
     
     .point-date {
-        color: #eebbc3; 
         padding-right: 10px;
     }
 
