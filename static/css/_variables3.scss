@@ -11,13 +11,13 @@ $color7: #fffffe;
 // @mixin palette($background-section, $background-article, $title, $paragraph, $secondary, $secondary-text, $tertiary, $tertiary-text)
 
 .paletteA {
-    @include palette($color1, $color1, $color2, $color3, $color5, $color2, $color4, $color2);
+    @include palette($color1, $color1, $color2, $color2, $color3, $color5, $color2, $color4, $color2);
 }
 
 .paletteB {
-    @include palette($color6, $color1, $color2, $color3, $color5, $color2, $color4, $color2);
+    @include palette($color6, $color1, $color2, $color2, $color3, $color5, $color2, $color4, $color2);
 }
 
 .paletteC {
-    @include palette($color7, $color6, $color2, $color3, $color5, $color2, $color4, $color2);
+    @include palette($color7, $color6, $color2, $color2, $color3, $color5, $color2, $color4, $color2);
 }
