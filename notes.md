@@ -2,6 +2,17 @@
 
 https://www.facebook.com/groups/409352002596836/?post_id=1299174240281270&notif_id=1593691772625916&notif_t=page_group_post&ref=notif
 
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500" rel="stylesheet">
+font-family: 'Poppins', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500" rel="stylesheet">
+font-family: 'Ubuntu', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Quicksand:500" rel="stylesheet">
+font-family: 'Quicksand', sans-serif;
+font-weight: 500;
+
+
 
 # Investičný zámer Námestie Republiky
 https://www.petrzalka.sk/wp-content/uploads/2020/02/KUPVaR-zapisnica_2020-01-14_overena.pdf
