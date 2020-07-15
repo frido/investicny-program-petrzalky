@@ -1,4 +1,24 @@
-**images**: https://www.figma.com/file/VpasusNFizqEXiN6p2lOUU/samosprava-logo1?node-id=10%3A51
-**pictoChart**: https://create.piktochart.com/dashboard
-**facebook debuger**: https://developers.facebook.com/tools/debug/?q=petrzalka.info
-**nice google fonts**: https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
+# Projects in Petržalka
+
+Projects in Petržalka is a web-page about development projects in Petržalka. It collects open information from government pages. Plans, deadlines, government resolutions (and next) are summarized and displayed attractively.
+
+http://petrzalka.info/
+
+**THIS IS DEPRECATED REPOSITORY**
+
+New repository to generate page is [petrzalka-11ty](https://github.com/frido/petrzalka-11ty)
+
+## Run
+
+```hugo server -D```
+
+## Deploy
+
+Generate pages
+```hugo```
+
+Copy the` docs` folder to a destination.
+
+## Technologies
+
+* [Hugo](https://gohugo.io/)
