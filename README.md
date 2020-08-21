@@ -17,8 +17,4 @@ New repository to generate page is [petrzalka-11ty](https://github.com/frido/pet
 Generate pages
 ```hugo```
 
-Copy the` docs` folder to a destination.
-
-## Technologies
-
-* [Hugo](https://gohugo.io/)
+Copy the `docs` folder to a destination.
